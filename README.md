@@ -28,9 +28,23 @@ If you are a student at a College or University, you can create your **[Azure fo
 
 ## Submitting your solution as a pull request (PR) 🔥
 
-Be among the first contributors and solve the challenge within 24 hours from publishing. To do so, fork this repository, create your solution in the corresponding subdirectory and create a pull request.
+Be among the first contributors and solve the challenge within 24 hours of publishing. To have your contribution acknowledged, follow these steps:
 
-- **[Week 1](#week-1)**
+ 1. Create a Github repo with your solution for that challenge
+ 2. Fork this repository and update the README as follows:
+    * find the correct Week/Challenge in the section below
+    * add your name and repository link as a _list item_ under the challenge
+    * create a pull request to have your contribution merged
+
+To minimize conflicts, we ask that you 
+ * fetch the latest version of the origin before making changes
+ * if no list exists for that week/challenge, start it with your item
+ * if a list exists for that week/challenge, add your item at the end
+
+Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additional information. Have questions or comments? Submit an [ISSUE](https://github.com/microsoft/25-days-of-serverless/issues/new/choose)
+
+
+- **[WEEK 1](#week-1)**
     - [Challenge 1](week-1/challenge-1/README.md) 
     - [Challenge 2](week-1/challenge-2/README.md) 
     - [Challenge 3](week-1/challenge-3/README.md) 

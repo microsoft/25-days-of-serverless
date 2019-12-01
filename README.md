@@ -45,7 +45,8 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
 
 
 - **[WEEK 1](#week-1)**
-    - [Challenge 1](week-1/challenge-1/README.md) 
+    - [Challenge 1](week-1/challenge-1/README.md)
+    - [Goodhope Ordu](https://github.com/goody-h/25DaysOfServerless/tree/master/day1)
     - [Challenge 2](week-1/challenge-2/README.md) 
     - [Challenge 3](week-1/challenge-3/README.md) 
     - [Challenge 4](week-1/challenge-4/README.md) 

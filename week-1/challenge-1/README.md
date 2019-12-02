@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Rahul Ruikar https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day1
-=======
 # Challenge 1: A Basic Function
 
 ![Spin the Dreidel!](https://res.cloudinary.com/jen-looper/image/upload/v1575132446/images/challenge-1_lriuc2.jpg)
@@ -46,4 +43,3 @@ Learn more about serverless technologies with free training!
 ## Questions? Comments?
 
 If you have any questions about the challenges, feel free to open an **[ISSUE HERE](https://github.com/microsoft/25-days-of-serverless/issues)**. Make sure to mention which challenge is problematic. We'll get back to you soon!
->>>>>>> baf845eebbe778f25b38612360862b49c0585b12

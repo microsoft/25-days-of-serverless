@@ -48,6 +48,7 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
     - [Challenge 1](week-1/challenge-1/README.md)
       - [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-1) 
     - [Challenge 2](week-1/challenge-2/README.md) 
+      - [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-2) 
     - [Challenge 3](week-1/challenge-3/README.md) 
     - [Challenge 4](week-1/challenge-4/README.md) 
     - [Challenge 5](week-1/challenge-5/README.md) 

@@ -1,18 +1,6 @@
-# 25DaysOfServerless - CA Resources
+# 25DaysOfServerless - Participant Resources
 
-Here is the proposed prefix paragraph for your challenge blog posts.
-
-> Prefix For Challenge Posts
-
-This article is part of [#25DaysOfServerless](http://aka.ms/25daysofserverless). New challenges will be published every day from Microsoft Cloud Advocates throughout the month of December. Find out more about how Microsoft Azure enables your [Serverless functions](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=25days_devto-blog-cxa).
-
-> Footer for Challenge Posts
-
-Watch for surprises all during December as we kick off the 25 Days of Serverless. Stay tuned here on dev.to as we feature challenges and solutions! Sign up for a [free account on Azure](https://azure.microsoft.com/free/?WT.mc_id=25days_devto-blog-cxa) to get ready for the challenges!
-
-> Trackable links for Content Resources
-
-Here is a list of resource links that you can use for the challenges. These are coded to use the default `?WT.mc_id=25daysofserverless-github-cxa` tracking id for this challenge.
+New to serverless or Azure functions? We have you covered. Here are a few resources for self-directed learning.
 
 ## Content 
 

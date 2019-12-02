@@ -14,7 +14,7 @@ Lucy is somewhat forgetful, though, and the stolen servers mean Lucy's usual rem
 
 It takes Lucy 25 minutes to make a large pot of coffee that will serve everyone, and about four minutes to deliver two cups of coffee (remember that she only has two hands to deliver them!). As mentioned, the candles will need to be relit every ten minutes.
 
-Create a task scheduler that will tell Lucy exactly when she should relight candles, pour coffee into cups, and deliver batches of coffee. How you want to notify Lucy is up to you: maybe you can send her an SMS via [Twilio](https://twilio.com), or build a webapp that uses WebSockets and browser notifications?
+Create a task scheduler that will tell Lucy exactly when she should relight candles, pour coffee into cups, and deliver batches of coffee. How you want to notify Lucy is up to you: maybe you can send her an SMS via **[Twilio](https://www.twilio.com/)**, or build a webapp that uses WebSockets and browser notifications?
 
 ## Tips
 

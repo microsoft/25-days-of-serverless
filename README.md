@@ -48,6 +48,7 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
     - [Challenge 1](week-1/challenge-1/README.md) 
       - [Manikandan Ramaswami](https://github.com/manikandanramaswami/Serverless/tree/master/1-A-Basic-Function) C# based Azure Function
     - [Challenge 2](week-1/challenge-2/README.md) 
+      - [Manikandan Ramaswami](https://github.com/manikandanramaswami/Serverless/tree/master/2-Task-Scheduler) LogicApp based Scheduler Notifying in GMail
     - [Challenge 3](week-1/challenge-3/README.md) 
     - [Challenge 4](week-1/challenge-4/README.md) 
     - [Challenge 5](week-1/challenge-5/README.md) 

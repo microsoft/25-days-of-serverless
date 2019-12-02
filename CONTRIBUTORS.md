@@ -15,8 +15,9 @@ Then read our [CONTRIBUTING](https://github.com/microsoft/25-days-of-serverless/
 
 We will be listing contributors in alphabetical order, by week, by challenge.
 
- * [Wk 1 : Challenge 1 : Spin up a Serverless Dreidel ](#week-one-challenge-1)
- * [Wk 1 : Challenge 2 : Lucy's Dilemma ](#week-one-challenge-2)
+ * [Wk 1 : Challenge 1 : Spin up a Serverless Dreidel ](#week-one---challenge-1)
+ * [Wk 1 : Challenge 2 : Lucy's Dilemma ](#week-one---challenge-2)
+ * [Wk 1 : Challenge 3 : ](#week-one---challenge-3)
 
 <hr/>
 

@@ -43,6 +43,6 @@ We will be listing contributors in alphabetical order, by first name.
 | Steve Boyd | [Challenge 1](https://github.com/Steve-Boyd/25daysofserverless2019/tree/master/week-1/day-1) |  | |
 | Tjeerd-menno Douma | [Challenge 1](https://github.com/Tjeerd-menno/25DaysOfServerless/tree/master/day1) |  | |
 | Vojtěch Srdečný | [Challenge 1](https://github.com/srdecny/serverless/tree/master/week-1/challenge-1) |  | |
-
+| Danushka Herath | [Challenge 1](https://github.com/Danushka96/25-days-of-serverless-challenge/tree/master/day-1) | NodeJS | |
 > WEEK 1 - **CHALLENGE 2**
 

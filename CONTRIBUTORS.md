@@ -47,7 +47,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
  * [John Liu](https://github.com/johnnliu/25-days-of-serverless/tree/master/solutions/w1-c1)
  * [John Pham](https://github.com/JohnPhamous/25-days-of-serverless-code/tree/master/Dreidel)
  * [Joshua Kroupenin](https://github.com/joshuakroupenin/dreidel) 
- * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDayOne)
+ * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDayOne) - C#
  * [Kevin Candlert](https://github.com/KevinJCandlert/25-days-of-serverless-submissions/tree/master/25-days-of-serverless/day-1)
  * [Manikandan Ramaswami](https://github.com/manikandanramaswami/Serverless/tree/master/1-A-Basic-Function) - C#
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day1)

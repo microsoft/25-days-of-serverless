@@ -75,7 +75,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
  * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/01-serverless-dreidel)
  * [Tjeerd-menno Douma](https://github.com/Tjeerd-menno/25DaysOfServerless/tree/master/day1) 
  * [Vojtěch Srdečný](https://github.com/srdecny/serverless/tree/master/week-1/challenge-1) 
-
+ * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/blob/master/HttpDreidel/index.ts) - TypeScript + [Unit Test](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/blob/master/test/httpDreidel.ts)
 <hr/>
 
 #### WEEK ONE - CHALLENGE 2

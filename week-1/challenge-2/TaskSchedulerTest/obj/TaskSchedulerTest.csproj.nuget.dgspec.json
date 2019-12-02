@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\a. Projects\\25-days-of-serverless\\week-1\\challenge-2\\TaskSchedulerTest\\TaskSchedulerTest.csproj": {}
+  },
+  "projects": {
+    "E:\\a. Projects\\25-days-of-serverless\\week-1\\challenge-2\\TaskSchedulerTest\\TaskSchedulerTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\a. Projects\\25-days-of-serverless\\week-1\\challenge-2\\TaskSchedulerTest\\TaskSchedulerTest.csproj",
+        "projectName": "TaskSchedulerTest",
+        "projectPath": "E:\\a. Projects\\25-days-of-serverless\\week-1\\challenge-2\\TaskSchedulerTest\\TaskSchedulerTest.csproj",
+        "packagesPath": "C:\\Users\\Adriana\\.nuget\\packages\\",
+        "outputPath": "E:\\a. Projects\\25-days-of-serverless\\week-1\\challenge-2\\TaskSchedulerTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Adriana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

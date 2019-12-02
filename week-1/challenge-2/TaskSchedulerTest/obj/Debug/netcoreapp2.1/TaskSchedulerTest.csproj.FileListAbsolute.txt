@@ -1,0 +1,14 @@
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\TaskSchedulerTest.deps.json
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\TaskSchedulerTest.runtimeconfig.json
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\TaskSchedulerTest.runtimeconfig.dev.json
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\TaskSchedulerTest.dll
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\bin\Debug\netcoreapp2.1\TaskSchedulerTest.pdb
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\obj\Debug\netcoreapp2.1\TaskSchedulerTest.csprojAssemblyReference.cache
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\obj\Debug\netcoreapp2.1\TaskSchedulerTest.csproj.CoreCompileInputs.cache
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\obj\Debug\netcoreapp2.1\TaskSchedulerTest.AssemblyInfoInputs.cache
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\obj\Debug\netcoreapp2.1\TaskSchedulerTest.AssemblyInfo.cs
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\obj\Debug\netcoreapp2.1\TaskSchedulerTest.dll
+E:\a. Projects\25-days-of-serverless\week-1\challenge-2\TaskSchedulerTest\obj\Debug\netcoreapp2.1\TaskSchedulerTest.pdb

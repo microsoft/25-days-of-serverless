@@ -75,6 +75,8 @@ We will be listing contributors in alphabetical order, by week, by challenge.
  * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/01-serverless-dreidel)
  * [Tjeerd-menno Douma](https://github.com/Tjeerd-menno/25DaysOfServerless/tree/master/day1) 
  * [Vojtěch Srdečný](https://github.com/srdecny/serverless/tree/master/week-1/challenge-1) 
+ * [Narciso Ocampo](https://github.com/nardsocampo/25DaysOfServerless/tree/master/week-1/challenge-1) 
+ 
 
 <hr/>
 

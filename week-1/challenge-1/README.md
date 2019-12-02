@@ -1,4 +1,5 @@
 # Challenge 1: A Basic Function
+Dennis Bottjer https://github.com/dbottjer/25-days-of-serverless
 
 ![Spin the Dreidel!](https://res.cloudinary.com/jen-looper/image/upload/v1575132446/images/challenge-1_lriuc2.jpg)
 

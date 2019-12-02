@@ -46,8 +46,8 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
 
 - **[WEEK 1](#week-1)**
     - [Challenge 1](week-1/challenge-1/README.md) 
+        - [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day01)
     - [Challenge 2](week-1/challenge-2/README.md) 
-        - [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day02)
     - [Challenge 3](week-1/challenge-3/README.md) 
     - [Challenge 4](week-1/challenge-4/README.md) 
     - [Challenge 5](week-1/challenge-5/README.md) 

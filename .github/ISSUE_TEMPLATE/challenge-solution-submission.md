@@ -9,10 +9,10 @@ assignees: ''
 
 Please provide the following information for your submission:
 
-# What is your name? (First, Last)
+### What is your name? (First, Last)
 
-# Where is your GitHub Repo ?(With your challenge solution)
+### Where is your GitHub Repo ?(With your challenge solution)
 
-# What Challenge is this for? (Challenge number between 1 and 25)
+### What Challenge is this for? (Challenge number between 1 and 25)
 
-# (Optional) Anything else we should know? e.g., what language did you use, do you have a blog post?
+### (Optional) Anything else we should know? e.g., language used, location, blog post?

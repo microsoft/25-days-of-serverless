@@ -18,9 +18,9 @@ There is no better way to learn a new technology than with gamification. And we'
 
 ## Suggested Resources 📑
 
-* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=25daysofserverless-github-cxa)** 
-* **[Azure Account](https://azure.microsoft.com/?WT.mc_id=25daysofserverless-github-cxa)** 
-* **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=25daysofserverless-github-cxa)** 
+* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=25daysofserverless-github-cxa)**
+* **[Azure Account](https://azure.microsoft.com/?WT.mc_id=25daysofserverless-github-cxa)**
+* **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=25daysofserverless-github-cxa)**
 
 ## Azure For Students Account ⭐️
 
@@ -36,7 +36,7 @@ Be among the first contributors and solve the challenge within 24 hours of publi
     * add your name and repository link as a _list item_ under the challenge
     * create a pull request to have your contribution merged
 
-To minimize conflicts, we ask that you 
+To minimize conflicts, we ask that you
  * fetch the latest version of the origin before making changes
  * if no list exists for that week/challenge, start it with your item
  * if a list exists for that week/challenge, add your item at the end
@@ -45,22 +45,23 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
 
 
 - **[WEEK 1](#week-1)**
-    - [Challenge 1](week-1/challenge-1/README.md) 
-    - [Challenge 2](week-1/challenge-2/README.md) 
-    - [Challenge 3](week-1/challenge-3/README.md) 
-    - [Challenge 4](week-1/challenge-4/README.md) 
-    - [Challenge 5](week-1/challenge-5/README.md) 
-    - [Challenge 6](week-1/challenge-6/README.md) 
-    - [Challenge 7](week-1/challenge-7/README.md) 
+    - [Challenge 1](week-1/challenge-1/README.md)
+        - [Nitesh Shrestha](https://github.com/niteshrestha/25-days-of-serverless/tree/master/src/Challenge%201)
+    - [Challenge 2](week-1/challenge-2/README.md)
+    - [Challenge 3](week-1/challenge-3/README.md)
+    - [Challenge 4](week-1/challenge-4/README.md)
+    - [Challenge 5](week-1/challenge-5/README.md)
+    - [Challenge 6](week-1/challenge-6/README.md)
+    - [Challenge 7](week-1/challenge-7/README.md)
 
-- **[Week 2](#week-2)** 
-    - [Challenge 8](week-2/challenge-8/README.md)   
-    - [Challenge 9](week-2/challenge-9/README.md)   
-    - [Challenge 10](week-2/challenge-10/README.md) 
-    - [Challenge 11](week-2/challenge-11/README.md) 
-    - [Challenge 12](week-2/challenge-12/README.md) 
+- **[Week 2](#week-2)**
+    - [Challenge 8](week-2/challenge-8/README.md)
+    - [Challenge 9](week-2/challenge-9/README.md)
+    - [Challenge 10](week-2/challenge-10/README.md)
+    - [Challenge 11](week-2/challenge-11/README.md)
+    - [Challenge 12](week-2/challenge-12/README.md)
     - [Challenge 13](week-2/challenge-13/README.md)
-    - [Challenge 14](week-2/challenge-14/README.md) 
+    - [Challenge 14](week-2/challenge-14/README.md)
 
 - **[Week 3](#week-3)**
     - [Challenge 15](week-3/challenge-15/README.md)
@@ -69,9 +70,9 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
     - [Challenge 18](week-3/challenge-18/README.md)
     - [Challenge 19](week-3/challenge-19/README.md)
     - [Challenge 20](week-3/challenge-20/README.md)
-    - [Challenge 21](week-3/challenge-21/README.md) 
+    - [Challenge 21](week-3/challenge-21/README.md)
 
-- **[Week 4](#week-4)** 
+- **[Week 4](#week-4)**
     - [Challenge 22](week-4/challenge-22/README.md)
     - [Challenge 23](week-4/challenge-23/README.md)
     - [Challenge 24](week-4/challenge-24/README.md)

@@ -43,6 +43,7 @@ Have questions or comments? Submit a regular [ISSUE](https://github.com/microsof
 
 - **[WEEK 1](#week-1)**
     - [Challenge 1](week-1/challenge-1/README.md) 
+     - [Erik Harris](https://github.com/ncsuWolfpack/25DaysOfServerless-Challenge1.git)
     - [Challenge 2](week-1/challenge-2/README.md) 
     - [Challenge 3](week-1/challenge-3/README.md) 
     - [Challenge 4](week-1/challenge-4/README.md) 

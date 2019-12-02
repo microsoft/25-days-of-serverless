@@ -81,7 +81,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
 #### WEEK ONE - CHALLENGE 2
 
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
-
+ * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/LucyDilemma) - HTTP Triggered Azure Logic App with Twillio Integration
 <hr/>
 
 #### WEEK ONE - CHALLENGE 3

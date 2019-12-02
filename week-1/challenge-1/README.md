@@ -33,6 +33,11 @@ Learn more about serverless technologies with free training!
 
 -   ✅ **[Serverless Free Courses](https://docs.microsoft.com/learn/browse/?term=azure%20functions&WT.mc_id=25daysofserverless-github-cxa)**
 
+ **[WEEK 1](#week-1)**
+    - [Challenge 1](week-1/challenge-1/README.md) 
+      - [Krunal solanki ](https://github.com/krunalsolanki/Dreidel_Spin) 
+
+
 ## More Resources ⭐️
 
 -   ✅ **[Azure Functions documentation](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=25daysofserverless-github-cxa)**

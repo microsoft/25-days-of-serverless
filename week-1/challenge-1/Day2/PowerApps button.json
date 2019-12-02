@@ -1,0 +1,426 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "logicAppName": {
+            "type": "String",
+            "metadata": {
+                "description": "Name of the logic app."
+            }
+        },
+        "logicAppLocation": {
+            "defaultValue": "[resourceGroup().location]",
+            "allowedValues": [
+                "eastasia",
+                "southeastasia",
+                "centralus",
+                "eastus",
+                "eastus2",
+                "westus",
+                "northcentralus",
+                "southcentralus",
+                "northeurope",
+                "westeurope",
+                "japanwest",
+                "japaneast",
+                "brazilsouth",
+                "australiaeast",
+                "australiasoutheast",
+                "southindia",
+                "centralindia",
+                "westindia",
+                "canadacentral",
+                "canadaeast",
+                "westcentralus",
+                "westus2",
+                "[resourceGroup().location]"
+            ],
+            "type": "String",
+            "metadata": {
+                "description": "Location of the logic app."
+            }
+        }
+    },
+    "resources": [
+        {
+            "type": "Microsoft.Logic/workflows",
+            "name": "[parameters('logicAppName')]",
+            "apiVersion": "2016-06-01",
+            "location": "[parameters('logicAppLocation')]",
+            "properties": {
+                "state": "Disabled",
+                "definition": {
+                    "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+                    "contentVersion": "1.0.0.0",
+                    "parameters": {
+                        "$connections": {
+                            "defaultValue": {
+                            },
+                            "type": "Object"
+                        },
+                        "$authentication": {
+                            "defaultValue": {
+                            },
+                            "type": "SecureObject"
+                        }
+                    },
+                    "triggers": {
+                        "manual": {
+                            "type": "Request",
+                            "kind": "Button",
+                            "inputs": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                    },
+                                    "required": [
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "actions": {
+                        "Start_Dec_13_coffee_delivery_to_family_wearing_the_Xmas_Candle_Crown": {
+                            "runAfter": {
+                            },
+                            "metadata": {
+                                "flowSystemMetadata": {
+                                    "swaggerOperationId": "SendNotification"
+                                }
+                            },
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$connections']['flowpush']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "body": {
+                                    "notificationText": "Start the coffee, set out 4 cups",
+                                    "notificationLink": {
+                                        "uri": "https://25daysofserverless.com/calendar/2",
+                                        "label": "Start "
+                                    }
+                                },
+                                "path": "/sendNotification",
+                                "authentication": {
+                                    "type": "Raw",
+                                    "value": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']"
+                                }
+                            }
+                        },
+                        "Delay_25_minutes": {
+                            "runAfter": {
+                                "Start_Dec_13_coffee_delivery_to_family_wearing_the_Xmas_Candle_Crown": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "type": "Wait",
+                            "inputs": {
+                                "interval": {
+                                    "count": 25,
+                                    "unit": "Minute"
+                                }
+                            }
+                        },
+                        "2_cups_of_coffee": {
+                            "runAfter": {
+                                "Delay_25_minutes": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "metadata": {
+                                "flowSystemMetadata": {
+                                    "swaggerOperationId": "SendNotification"
+                                }
+                            },
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$connections']['flowpush']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "body": {
+                                    "notificationText": "pour two cups of coffee",
+                                    "notificationLink": {
+                                        "uri": "https://25daysofserverless.com/calendar/2",
+                                        "label": "2 cups of coffee"
+                                    }
+                                },
+                                "path": "/sendNotification",
+                                "authentication": {
+                                    "type": "Raw",
+                                    "value": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']"
+                                }
+                            }
+                        },
+                        "Wait_for_candles_to_be_lit": {
+                            "runAfter": {
+                                "2_cups_of_coffee": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "type": "Wait",
+                            "inputs": {
+                                "interval": {
+                                    "count": 5,
+                                    "unit": "Minute"
+                                }
+                            }
+                        },
+                        "Deliver_Coffee_to_Mum_and_Dad": {
+                            "runAfter": {
+                                "Wait_for_candles_to_be_lit": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "metadata": {
+                                "flowSystemMetadata": {
+                                    "swaggerOperationId": "SendNotification"
+                                }
+                            },
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$connections']['flowpush']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "body": {
+                                    "notificationText": "deliver coffee to Mum and Dad",
+                                    "notificationLink": {
+                                        "uri": "https://25daysofserverless.com/calendar/2",
+                                        "label": "deliver coffee to Mum and Dad"
+                                    }
+                                },
+                                "path": "/sendNotification",
+                                "authentication": {
+                                    "type": "Raw",
+                                    "value": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']"
+                                }
+                            }
+                        },
+                        "Delay_4_minutes": {
+                            "runAfter": {
+                                "Deliver_Coffee_to_Mum_and_Dad": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "type": "Wait",
+                            "inputs": {
+                                "interval": {
+                                    "count": 4,
+                                    "unit": "Minute"
+                                }
+                            }
+                        },
+                        "_return_to_kitchen,_fill_two_more_cups": {
+                            "runAfter": {
+                                "Delay_4_minutes": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "metadata": {
+                                "flowSystemMetadata": {
+                                    "swaggerOperationId": "SendNotification"
+                                }
+                            },
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$connections']['flowpush']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "body": {
+                                    "notificationText": " return to kitchen, fill two more cups",
+                                    "notificationLink": {
+                                        "uri": "https://25daysofserverless.com/calendar/2",
+                                        "label": " return to kitchen, fill two more cups"
+                                    }
+                                },
+                                "path": "/sendNotification",
+                                "authentication": {
+                                    "type": "Raw",
+                                    "value": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']"
+                                }
+                            }
+                        },
+                        "Delay_1_minute": {
+                            "runAfter": {
+                                "_return_to_kitchen,_fill_two_more_cups": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "type": "Wait",
+                            "inputs": {
+                                "interval": {
+                                    "count": 1,
+                                    "unit": "Minute"
+                                }
+                            }
+                        },
+                        "relight_the_candles": {
+                            "runAfter": {
+                                "Delay_1_minute": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "metadata": {
+                                "flowSystemMetadata": {
+                                    "swaggerOperationId": "SendNotification"
+                                }
+                            },
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$connections']['flowpush']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "body": {
+                                    "notificationText": "relight the candles",
+                                    "notificationLink": {
+                                        "uri": "https://25daysofserverless.com/calendar/2",
+                                        "label": "relight the candles"
+                                    }
+                                },
+                                "path": "/sendNotification",
+                                "authentication": {
+                                    "type": "Raw",
+                                    "value": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']"
+                                }
+                            }
+                        },
+                        "Delay_5_minutes": {
+                            "runAfter": {
+                                "relight_the_candles": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "type": "Wait",
+                            "inputs": {
+                                "interval": {
+                                    "count": 5,
+                                    "unit": "Minute"
+                                }
+                            }
+                        },
+                        "deliver_the_coffee_to_Sister_and_Brother": {
+                            "runAfter": {
+                                "Delay_5_minutes": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "metadata": {
+                                "flowSystemMetadata": {
+                                    "swaggerOperationId": "SendNotification"
+                                }
+                            },
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$connections']['flowpush']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "body": {
+                                    "notificationText": "deliver the coffee to Sister and Brother",
+                                    "notificationLink": {
+                                        "uri": "https://25daysofserverless.com/calendar/2",
+                                        "label": "deliver the coffee to Sister and Brother"
+                                    }
+                                },
+                                "path": "/sendNotification",
+                                "authentication": {
+                                    "type": "Raw",
+                                    "value": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']"
+                                }
+                            }
+                        },
+                        "Delay_another_4_minutes": {
+                            "runAfter": {
+                                "deliver_the_coffee_to_Sister_and_Brother": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "type": "Wait",
+                            "inputs": {
+                                "interval": {
+                                    "count": 4,
+                                    "unit": "Minute"
+                                }
+                            }
+                        },
+                        "return_to_kitchen_and_take_a_break": {
+                            "runAfter": {
+                                "Delay_another_4_minutes": [
+                                    "Succeeded"
+                                ]
+                            },
+                            "metadata": {
+                                "flowSystemMetadata": {
+                                    "swaggerOperationId": "SendNotification"
+                                }
+                            },
+                            "type": "ApiConnection",
+                            "inputs": {
+                                "host": {
+                                    "connection": {
+                                        "name": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$connections']['flowpush']['connectionId']"
+                                    }
+                                },
+                                "method": "post",
+                                "body": {
+                                    "notificationText": "return to kitchen and take a break",
+                                    "notificationLink": {
+                                        "uri": "https://25daysofserverless.com/calendar/2",
+                                        "label": "return to kitchen and take a break"
+                                    }
+                                },
+                                "path": "/sendNotification",
+                                "authentication": {
+                                    "type": "Raw",
+                                    "value": "@json(decodeBase64(triggerOutputs().headers['X-MS-APIM-Tokens']))['$ConnectionKey']"
+                                }
+                            }
+                        }
+                    },
+                    "outputs": {
+                    },
+                    "description": "Create one or more actions to happen when a button or link in PowerApps is selected. To use this flow from a PowerApp, select the control you want to trigger the flow and go to the Action tab in the PowerApps ribbon and select Flows."
+                },
+                "parameters": {
+                },
+                "runtimeConfiguration": {
+                    "lifetime": {
+                        "unit": "Day",
+                        "count": 30
+                    },
+                    "collections": {
+                        "maximumItemCount": 5000
+                    },
+                    "performanceProfile": {
+                        "throttles": {
+                            "mode": "Low"
+                        }
+                    },
+                    "retryPolicy": {
+                        "type": "Exponential",
+                        "interval": "PT7S",
+                        "count": 2,
+                        "minimumInterval": "PT5S",
+                        "maximumInterval": "PT1H"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -44,7 +44,8 @@ Have questions or comments? Submit a regular [ISSUE](https://github.com/microsof
 - **[WEEK 1](#week-1)**
     - [Challenge 1](week-1/challenge-1/README.md) 
     - [Challenge 2](week-1/challenge-2/README.md) 
-    - [Challenge 3](week-1/challenge-3/README.md) 
+    - [Challenge 3](week-1/challenge-3/README.md)
+        - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) 
     - [Challenge 4](week-1/challenge-4/README.md) 
     - [Challenge 5](week-1/challenge-5/README.md) 
     - [Challenge 6](week-1/challenge-6/README.md) 

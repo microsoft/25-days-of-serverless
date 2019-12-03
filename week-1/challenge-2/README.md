@@ -51,3 +51,7 @@ Learn more about serverless with a Free Training!
 ## Questions? Comments?
 
 If you have any questions about the challenges, feel free to open an **[ISSUE HERE](https://github.com/microsoft/25-days-of-serverless/issues)**. Make sure to mention which challenge is problematic. We'll get back to you soon!
+
+
+- [Challenge 2](week-1/challenge-2/README.md) 
+        - [Krunal Solanki](https://github.com/krunalsolanki/25DaysOfServerless/tree/master/Challenge2)

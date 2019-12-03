@@ -48,6 +48,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
  * [John Pham](https://github.com/JohnPhamous/25-days-of-serverless-code/tree/master/Dreidel)
  * [Joshua Kroupenin](https://github.com/joshuakroupenin/dreidel) 
  * [Kevin Candlert](https://github.com/KevinJCandlert/25-days-of-serverless-submissions/tree/master/25-days-of-serverless/day-1)
+ * [Kevin Remhof](https://github.com/KevinRemhof/25daysofserverless/tree/master/week-1/challenge-1)
  * [Manikandan Ramaswami](https://github.com/manikandanramaswami/Serverless/tree/master/1-A-Basic-Function) - C#
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day1)
  * [Marc Duiker](https://github.com/marcduiker/25daysofserverless2019)

@@ -83,6 +83,8 @@ We will be listing contributors in alphabetical order, by week, by challenge.
 #### WEEK ONE - CHALLENGE 2
 
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
+ * [Narciso Ocampo](https://github.com/nardsocampo/25DaysOfServerless/tree/master/week-1/challenge-2) 
+ 
 
 <hr/>
 

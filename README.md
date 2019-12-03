@@ -48,6 +48,7 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
     - [Challenge 1](week-1/challenge-1/README.md) 
     - [Challenge 2](week-1/challenge-2/README.md) 
     - [Challenge 3](week-1/challenge-3/README.md) 
+	    - [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/day3)
     - [Challenge 4](week-1/challenge-4/README.md) 
     - [Challenge 5](week-1/challenge-5/README.md) 
     - [Challenge 6](week-1/challenge-6/README.md) 

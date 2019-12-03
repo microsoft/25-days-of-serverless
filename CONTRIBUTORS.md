@@ -81,6 +81,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
 
 #### WEEK ONE - CHALLENGE 2
 
+ * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDay2)
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
 
 <hr/>

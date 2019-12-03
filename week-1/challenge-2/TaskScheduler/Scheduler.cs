@@ -38,17 +38,24 @@ namespace TaskScheduler
         public static void Notify(Event e)
         {
             //-POST Mode
-            const string accountSid = "AC1fde856585479c11702d299c1a6800a1";
-            const string authToken = "your_auth_token";
+            const string accountSid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+            const string authToken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
             TwilioClient.Init(accountSid, authToken);
+            MessageResource message = null;
 
-            var message = MessageResource.Create(
+            try { 
+                message = MessageResource.Create(
                 body: e.ToString(),
-                from: new Twilio.Types.PhoneNumber("+15854926296"),
-                to: new Twilio.Types.PhoneNumber("+15854926296")
+                from: new Twilio.Types.PhoneNumber("+15123456789"),
+                to:   new Twilio.Types.PhoneNumber("+33123456789")
             );
 
+            }
+            catch (Exception exc)
+            {
+                Console.WriteLine(exc.Message);
+            }
             Console.WriteLine(message.Sid);
         }
 

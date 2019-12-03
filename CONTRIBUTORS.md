@@ -81,7 +81,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
 #### WEEK ONE - CHALLENGE 2
 
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
-
+ * [Adriana NAVA AGUILAR] (https://github.com/tennamiqui/25-days-of-serverless/tree/master/week-1/challenge-2)
 <hr/>
 
 #### WEEK ONE - CHALLENGE 3

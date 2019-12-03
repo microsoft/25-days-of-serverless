@@ -18,5 +18,10 @@ namespace TaskScheduler
             startTime = start;
             endTime = end;
         }
+
+        public override string ToString()
+        {
+            return "Lucy is timet to {this.eventName}";
+        }
     }
 }

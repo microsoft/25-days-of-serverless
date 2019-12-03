@@ -50,6 +50,7 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
     - [Challenge 2](week-1/challenge-2/README.md) 
     - [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day2)
     - [Challenge 3](week-1/challenge-3/README.md) 
+    - [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day3)
     - [Challenge 4](week-1/challenge-4/README.md) 
     - [Challenge 5](week-1/challenge-5/README.md) 
     - [Challenge 6](week-1/challenge-6/README.md) 

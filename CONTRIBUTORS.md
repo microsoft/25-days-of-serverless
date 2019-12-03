@@ -34,7 +34,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
  * [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day1) 
  * [DrWala](https://github.com/DrWala/25-days-serverless-day-1) 
  * [Emmanuel Nwankwo](https://github.com/emmanuelnwankwo/25DaysOfServerless/tree/master/Challenge1) 
- * [Erik Harris](https://github.com/ncsuWolfpack/25DaysOfServerless-Challenge1.git)
+ * [Erik Harris](https://github.com/ncsuWolfpack/my-25-days-of-serverless/tree/master/week1/challenge1) -- C#
  * [Erik Lieben](https://github.com/eriklieben/25daysofserverless2019/tree/master/day1)
  * [Ernesto Cardenas](https://github.com/fisica3/25DaysOfServerless/blob/master/Prueba20/DreidelApi.cs) -- C# 
  * [Francesco Persico](https://github.com/francescopersico/25-days-of-serverless-solutions/tree/day-1) 
@@ -80,7 +80,8 @@ We will be listing contributors in alphabetical order, by week, by challenge.
 
 #### WEEK ONE - CHALLENGE 2
 
- * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
+ * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02)
+ * [Erik Harris](https://github.com/ncsuWolfpack/my-25-days-of-serverless/tree/master/week1/challenge2)
 
 <hr/>
 

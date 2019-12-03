@@ -46,10 +46,9 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
 
 - **[WEEK 1](#week-1)**
     - [Challenge 1](week-1/challenge-1/README.md) 
-        - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet)
     - [Challenge 2](week-1/challenge-2/README.md) 
-        - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/day02)
     - [Challenge 3](week-1/challenge-3/README.md) 
+        - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/day03)
     - [Challenge 4](week-1/challenge-4/README.md) 
     - [Challenge 5](week-1/challenge-5/README.md) 
     - [Challenge 6](week-1/challenge-6/README.md) 

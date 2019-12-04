@@ -83,10 +83,29 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 2
 
- * [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-2) - Logic Apps
- * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
+ * [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-2) - Logic App
+ * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02)
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day2)
  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_02)
+ * [Emmanuel Nwankwo](https://github.com/emmanuelnwankwo/25DaysOfServerless/tree/master/Challenge2) - Logic App
+ * [Adriana NAVA AGUILAR](https://github.com/tennamiqui/25-days-of-serverless/tree/master/week-1/challenge-2) - C#
+ * [Mark Scholman](https://github.com/markscholman/25DaysOfServerless2019/tree/master/191201)
+ * [Linda Nichols](https://github.com/lynnaloo/25-days-of-serverless-solutions/tree/master/keep-the-candles-burning) - Logic App
+ * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day2) - Logic App
+ * [Joshua Kroupenin](https://github.com/joshuakroupenin/lucyshedule) - Logic App
+ * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day01)
+ * [Erik Harris](https://github.com/ncsuWolfpack/25DaysOfServerless-Challenge1.git)
+ * [Krunal Solanki](https://github.com/krunalsolanki/25DaysOfServerless/tree/master/Challenge2)
+ * [Chris Sainty](https://github.com/chrissainty/25DaysOfServerless/tree/master/Day1)
+ * [Narciso Ocampo](https://github.com/nardsocampo/25DaysOfServerless/tree/master/week-1/challenge-2)
+ * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/LucyDilemma) - Logic App
+ * [Oleksandr Olashyn](https://github.com/OOlashyn/DWC-25-days-of-serverless/tree/master/week-1/challenge-2/PowerAutomate)
+ * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/02-task-scheduler)
+ * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/2)
+ * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/day02)
+ * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day2)
+ * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-2)
+ * [Darren Robinson](https://github.com/microsoft/25-days-of-serverless/pull/68/commits/496ed8f1ea9ae86a37b79df2c30897c7d8ec4f26)
 
 <hr/>
 

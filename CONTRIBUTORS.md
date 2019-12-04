@@ -13,11 +13,12 @@ Then read our [CONTRIBUTING](https://github.com/microsoft/25-days-of-serverless/
 
 ## Our Awesome Contributors
 
-We will be listing contributors in alphabetical order, by week, by challenge.
+We will be listing contributors in alphabetical order, by week, by challenge. At the end of the challenge we hope to recognize those who submitted the most solutions as well as feature interesting solutions from each week. So keep those contributions going!
 
  * [Wk 1 : Challenge 1 : Spin up a Serverless Dreidel ](#week-one---challenge-1)
  * [Wk 1 : Challenge 2 : Lucy's Dilemma ](#week-one---challenge-2)
- * [Wk 1 : Challenge 3 : ](#week-one---challenge-3)
+ * [Wk 1 : Challenge 3 : Secret Santa's Gifts](#week-one---challenge-3)
+ * [Wk 1 : Challenge 4 : Ezra's Potluck ](#week-one---challenge-4)
 
 <hr/>
 
@@ -55,6 +56,7 @@ We will be listing contributors in alphabetical order, by week, by challenge.
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-01)
  * [Martin Terbeck](https://github.com/martinterbeck/25dayofserverless2019/tree/master/Day1) 
  * [Matt Davis](https://github.com/da5is/25DaysOfServerlessDay1/tree/master)
+ * [Mofope Ojosh](https://github.com/mofopeojosh/serverless-dreidel)
  * [Monica Powell](https://github.com/M0nica/25-days-of-serverless/tree/master/dreidel) 
  * [Natraj Yegnaraman](https://github.com/rajyraman/25-days-of-serverless/tree/master/week-1/challenge-1/dreidel)
  * [Nitesh Shrestha](https://github.com/niteshrestha/25-days-of-serverless/tree/master/src/Challenge%201) 
@@ -80,10 +82,24 @@ We will be listing contributors in alphabetical order, by week, by challenge.
 
 #### WEEK ONE - CHALLENGE 2
 
+ * [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-2) - Logic Apps
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
 
 <hr/>
 
 #### WEEK ONE - CHALLENGE 3
+
+ * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day3FurryFriends) - PowerShell in Function App
+ * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/SecretSanta) - TypeScript, Azure Functions, Azure SQL
+ * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day03) - Node.js Functions, Table Storage
+ * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - Azure SQL Database & cat pics!!
+ * [David Ojeda](https://github.com/davidojedalopez/day-03) - Node.js, AWS services
+ * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/secretSantaHttp)- Node.js, Table Storage
+
+<hr/>
+
+#### WEEK ONE - CHALLENGE 4 
+
+ * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-04) - TypeScript, Azure Functions, MongoDB
 
 <hr/>

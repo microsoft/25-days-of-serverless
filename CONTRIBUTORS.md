@@ -86,6 +86,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-2) - Logic Apps
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day2)
+ * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_02)
 
 <hr/>
 

@@ -28,11 +28,13 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Afreez Irekeola](https://github.com/Hayfeez/25daysofserverless/tree/master/Day%201%20-%20Serverless%20Driedel)
  * [Ali Spittel](https://github.com/aspittel/25-days-serverless/tree/master/dreidel) -- Python
  * [Anthony Nguyen](https://github.com/anthonyx21/25-days-of-serverless-solutions/tree/master/day1)
+ * [Arnaud Leclerc](https://github.com/arnaudleclerc/25daysofserverless/tree/master/week-1/challenge-1)
  * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day1Dreidel) 
  * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/1) 
  * [Brett Miller](https://github.com/brettmillerb/25-days-of-serverless/tree/week1/challenge1) 
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/dreidelHttp)
  * [Danushka Herath](https://github.com/Danushka96/25-days-of-serverless-challenge/tree/master/day-1) -- .NodeJS
+ * [Dennis Bottjer](https://github.com/dbottjer/25-days-of-serverless)
  * [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day1) 
  * [DrWala](https://github.com/DrWala/25-days-serverless-day-1) 
  * [Emmanuel Nwankwo](https://github.com/emmanuelnwankwo/25DaysOfServerless/tree/master/Challenge1) 
@@ -40,6 +42,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Erik Lieben](https://github.com/eriklieben/25daysofserverless2019/tree/master/day1)
  * [Ernesto Cardenas](https://github.com/fisica3/25DaysOfServerless/blob/master/Prueba20/DreidelApi.cs) -- C# 
  * [Francesco Persico](https://github.com/francescopersico/25-days-of-serverless-solutions/tree/day-1) 
+ * [Francois-Xavier Cat](https://github.com/lazywinadmin/25-days-of-serverless/tree/master/week-1/challenge-1)
  * [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless)) 
  * [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-1) 
  * [Goodhope Ordu](https://github.com/goody-h/25DaysOfServerless/tree/master/day1) 

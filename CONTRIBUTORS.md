@@ -85,6 +85,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
  * [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-2) - Logic Apps
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
+ * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day2)
 
 <hr/>
 
@@ -96,7 +97,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - Azure SQL Database & cat pics!!
  * [David Ojeda](https://github.com/davidojedalopez/day-03) - Node.js, AWS services
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/secretSantaHttp)- Node.js, Table Storage
-
+ * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day3)
+ 
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 

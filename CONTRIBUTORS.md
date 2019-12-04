@@ -28,11 +28,13 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Afreez Irekeola](https://github.com/Hayfeez/25daysofserverless/tree/master/Day%201%20-%20Serverless%20Driedel)
  * [Ali Spittel](https://github.com/aspittel/25-days-serverless/tree/master/dreidel) -- Python
  * [Anthony Nguyen](https://github.com/anthonyx21/25-days-of-serverless-solutions/tree/master/day1)
+ * [Arnaud Leclerc](https://github.com/arnaudleclerc/25daysofserverless/tree/master/week-1/challenge-1)
  * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day1Dreidel) 
  * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/1) 
  * [Brett Miller](https://github.com/brettmillerb/25-days-of-serverless/tree/week1/challenge1) 
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/dreidelHttp)
  * [Danushka Herath](https://github.com/Danushka96/25-days-of-serverless-challenge/tree/master/day-1) -- .NodeJS
+ * [Dennis Bottjer](https://github.com/dbottjer/25-days-of-serverless)
  * [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day1) 
  * [DrWala](https://github.com/DrWala/25-days-serverless-day-1) 
  * [Emmanuel Nwankwo](https://github.com/emmanuelnwankwo/25DaysOfServerless/tree/master/Challenge1) 
@@ -40,15 +42,18 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Erik Lieben](https://github.com/eriklieben/25daysofserverless2019/tree/master/day1)
  * [Ernesto Cardenas](https://github.com/fisica3/25DaysOfServerless/blob/master/Prueba20/DreidelApi.cs) -- C# 
  * [Francesco Persico](https://github.com/francescopersico/25-days-of-serverless-solutions/tree/day-1) 
+ * [Francois-Xavier Cat](https://github.com/lazywinadmin/25-days-of-serverless/tree/master/week-1/challenge-1)
  * [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless)) 
  * [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-1) 
  * [Goodhope Ordu](https://github.com/goody-h/25DaysOfServerless/tree/master/day1) 
  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_01) 
  * [Jamel de la Fuente](https://github.com/superjamel/Day1ServerlessChallenge) 
+ * [Jason Clark](https://github.com/jjasonclark/dreidel-spin)
  * [Jesus Gomez](https://github.com/evuz/25-days-of-serverless-code/tree/master/Day-01) 
  * [John Liu](https://github.com/johnnliu/25-days-of-serverless/tree/master/solutions/w1-c1)
  * [John Pham](https://github.com/JohnPhamous/25-days-of-serverless-code/tree/master/Dreidel)
  * [Joshua Kroupenin](https://github.com/joshuakroupenin/dreidel) 
+ * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDayOne) - C#
  * [Kevin Candlert](https://github.com/KevinJCandlert/25-days-of-serverless-submissions/tree/master/25-days-of-serverless/day-1)
  * [Manikandan Ramaswami](https://github.com/manikandanramaswami/Serverless/tree/master/1-A-Basic-Function) - C#
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day1)
@@ -63,6 +68,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Nitesh Shrestha](https://github.com/niteshrestha/25-days-of-serverless/tree/master/src/Challenge%201) 
  * [Oleksandr Olashyn](https://github.com/OOlashyn/25-days-of-serverless/tree/master/week-1/challenge-1) 
  * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/1-12)
+ * [Paul Chin Jr.](https://github.com/pchinjr/25-days-of-serverless-solutions/tree/master/week-1)
  * [Paul Shell](https://github.com/CloudExperiment/25-days-of-serverless/tree/master/week-1/challenge-1) 
  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/day1) 
  * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day1)
@@ -71,6 +77,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/week-1) 
  * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet) 
  * [Scott Semyan](https://github.com/ssemyan/25DaysOfServerless2019/tree/master/Day-1)
+ * [Sebastian Jensen](https://github.com/tsjdev-apps/25daysofserverless/tree/master/25DaysOfServerless/Day01)
  * [Shanmukha Ranganath](https://github.com/shanranm/25DaysOfServerless/tree/master/Challenge1) 
  * [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless)
  * [Steve Boyd](https://github.com/Steve-Boyd/25daysofserverless2019/tree/master/week-1/day-1) 
@@ -93,6 +100,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Linda Nichols](https://github.com/lynnaloo/25-days-of-serverless-solutions/tree/master/keep-the-candles-burning) - Logic App
  * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day2) - Logic App
  * [Joshua Kroupenin](https://github.com/joshuakroupenin/lucyshedule) - Logic App
+ * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDay2)
  * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day01)
  * [Erik Harris](https://github.com/ncsuWolfpack/25DaysOfServerless-Challenge1.git)
  * [Krunal Solanki](https://github.com/krunalsolanki/25DaysOfServerless/tree/master/Challenge2)
@@ -106,6 +114,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day2)
  * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-2)
  * [Darren Robinson](https://github.com/microsoft/25-days-of-serverless/pull/68/commits/496ed8f1ea9ae86a37b79df2c30897c7d8ec4f26)
+
 
 <hr/>
 

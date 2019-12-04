@@ -32,6 +32,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/1) 
  * [Brett Miller](https://github.com/brettmillerb/25-days-of-serverless/tree/week1/challenge1) 
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/dreidelHttp)
+ * [Danushka Herath](https://github.com/Danushka96/25-days-of-serverless-challenge/tree/master/day-1) -- .NodeJS
  * [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day1) 
  * [DrWala](https://github.com/DrWala/25-days-serverless-day-1) 
  * [Emmanuel Nwankwo](https://github.com/emmanuelnwankwo/25DaysOfServerless/tree/master/Challenge1) 

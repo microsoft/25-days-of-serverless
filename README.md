@@ -46,6 +46,7 @@ Have questions or comments? Submit a regular [ISSUE](https://github.com/microsof
     - [Challenge 2](week-1/challenge-2/README.md) 
     - [Challenge 3](week-1/challenge-3/README.md) 
     - [Challenge 4](week-1/challenge-4/README.md) 
+        - [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day4)
     - [Challenge 5](week-1/challenge-5/README.md) 
     - [Challenge 6](week-1/challenge-6/README.md) 
     - [Challenge 7](week-1/challenge-7/README.md) 

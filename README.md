@@ -44,7 +44,6 @@ Have questions or comments? Submit a regular [ISSUE](https://github.com/microsof
 - **[WEEK 1](#week-1)**
     - [Challenge 1](week-1/challenge-1/README.md) 
     - [Challenge 2](week-1/challenge-2/README.md) 
-        - [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless)
     - [Challenge 3](week-1/challenge-3/README.md) 
         - [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless)
     - [Challenge 4](week-1/challenge-4/README.md) 

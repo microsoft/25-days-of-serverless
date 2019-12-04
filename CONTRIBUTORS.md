@@ -48,6 +48,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Goodhope Ordu](https://github.com/goody-h/25DaysOfServerless/tree/master/day1) 
  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_01) 
  * [Jamel de la Fuente](https://github.com/superjamel/Day1ServerlessChallenge) 
+ * [Jason Clark](https://github.com/jjasonclark/dreidel-spin)
  * [Jesus Gomez](https://github.com/evuz/25-days-of-serverless-code/tree/master/Day-01) 
  * [John Liu](https://github.com/johnnliu/25-days-of-serverless/tree/master/solutions/w1-c1)
  * [John Pham](https://github.com/JohnPhamous/25-days-of-serverless-code/tree/master/Dreidel)

@@ -87,6 +87,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02) 
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day2)
  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_02)
+ * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDay2)
 
 <hr/>
 

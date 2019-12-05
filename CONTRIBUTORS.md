@@ -61,6 +61,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-01)
  * [Martin Terbeck](https://github.com/martinterbeck/25dayofserverless2019/tree/master/Day1) 
  * [Matt Davis](https://github.com/da5is/25DaysOfServerlessDay1/tree/master)
+ * [Mike Wolford](https://github.com/mwolford/25Days-1)
  * [Mofope Ojosh](https://github.com/mofopeojosh/serverless-dreidel)
  * [Monica Powell](https://github.com/M0nica/25-days-of-serverless/tree/master/dreidel) 
  * [Natraj Yegnaraman](https://github.com/rajyraman/25-days-of-serverless/tree/master/week-1/challenge-1/dreidel)

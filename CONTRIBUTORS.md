@@ -147,9 +147,9 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/3-12) 
  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day3)
  * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day3)
- * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - Azure SQL Database & cat pics!!
  * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day03)
- * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) 
+ * [Sébastien Jousse aka LINQ lover](https://github.com/sjousse/25DaysOfServerless/tree/master/Day03)
+ * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - Azure SQL Database & cat pics!!
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 

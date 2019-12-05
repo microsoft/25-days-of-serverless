@@ -147,6 +147,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day3)
  * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/3-12) 
  * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/day3)
+ * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day3)
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 

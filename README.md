@@ -2,11 +2,25 @@
 
 [![advent-of-serverless.gif](https://s5.gifyu.com/images/advent-of-serverless.gif)](https://gifyu.com/image/vNo5)
 
-## Main Goal 🎯
+## Contents
+
+- **[Contents 25 days of Serverless](#contents-25-days-of-serverless)**
+    - **[Main Goal](#main-goal)** 🎯
+    - **[Rules](#rules)** 🎫
+    - **[Suggested Resources](#suggested-resources)** 📑
+    - **[Azure For Students Account](#azure-for-students-account)** ⭐️
+    - **[How Submit Your Solution](#submit-your-solution-as-a-custom-ISSUE-to-our-repository)** 🔥    
+    - **[Challenges](#challenges)** 💻   
+    - **[Discord Channel](#discord-channel)** 💬   
+    - **[Solutions](#solutions)** 💡
+        - **[Solutions Week-1](#solutions-week-1)**  
+    - **[Contributing](#contributing)** 🚩   
+
+## Main Goal
 
 There is no better way to learn a new technology than with gamification. And we're here to help you learn Serverless once and for all with 25 daily challenges: 25 days of Serverless! Come join!
 
-## Rules 🎫
+## Rules
 
 1. Solve each [coding challenge](https://aka.ms/25daysofserverless) in the first 25 days of December.
 
@@ -16,33 +30,30 @@ There is no better way to learn a new technology than with gamification. And we'
 
 4. You may get picked for a mention during our weekly wrap-up video. If you submit a PR you agree that we mention your name and/or nicknames (GitHub, Twitter) publicly in the context of 25 Days of Serverless.
 
-## Suggested Resources 📑
+## Suggested Resources
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=25daysofserverless-github-cxa)** 
 * **[Azure Account](https://azure.microsoft.com/?WT.mc_id=25daysofserverless-github-cxa)** 
 * **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=25daysofserverless-github-cxa)** 
 
-## Azure For Students Account ⭐️
+## Azure For Students Account
 
 If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)** account. This account will give you the benefit of having a $ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)**.
 
-## Submitting your solution as a pull request (PR) 🔥
+## Submit your solution as a custom ISSUE to our repository
+ 
+🚨 **Submission Process Change:** Starting Dec 3, 2019 🚨
 
-Be among the first contributors and solve the challenge within 24 hours of publishing. To have your contribution acknowledged, follow these steps:
+> _We've been blown away at the interest and engagement around this challenge! The previous process used Pull Requests. The new process uses Issues. We hope this change makes it easier for you to send us your amazing work, and for us to highlight your contributions. New PRs after Dec 4, 2019 may not be processed._
+
+Be among the first contributors and solve the challenge within 24 hours of publishing. To have your contribution acknowledged, follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines. The short version:
 
  1. Create a Github repo with your solution for that challenge
- 2. Fork this repository and update the README as follows:
-    * find the correct Week/Challenge in the section below
-    * add your name and repository link as a _list item_ under the challenge
-    * create a pull request to have your contribution merged
+ 2. Fill in the details for the [Challenge Solution Submission](https://github.com/microsoft/25-days-of-serverless/issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
 
-To minimize conflicts, we ask that you 
- * fetch the latest version of the origin before making changes
- * if no list exists for that week/challenge, start it with your item
- * if a list exists for that week/challenge, add your item at the end
+Have questions or comments? Submit a regular [ISSUE](https://github.com/microsoft/25-days-of-serverless/issues/new/choose) here with details.
 
-Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additional information. Have questions or comments? Submit an [ISSUE](https://github.com/microsoft/25-days-of-serverless/issues/new/choose)
-
+## Challenges
 
 - **[WEEK 1](#week-1)**
     - [Challenge 1](week-1/challenge-1/README.md) 
@@ -78,12 +89,24 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
     - [Challenge 24](week-4/challenge-24/README.md)
     - [Challenge 25](week-4/challenge-25/README.md)
 
-## Discord Channel 💬
+## Discord Channel
 
 Discussion Channels are available on Discord: [Permanent Link to Server](https://discord.gg/8kbAeud)
 We ask everyone to be fair and helpful and to not spoil the challenges by publishing solutions prominently. The [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) applies to all discussion channels.
 
-## Contributing 🚩
+## Solutions
+
+Here all the link solutions of each challenges published in **[dev.to](https://dev.to/)** 
+
+### Solutions Week-1
+
+| Challenges | Description | Important Resources | Responsible | Solution |
+|---|---|---|---|---|
+| Webhooks (**#1**)| Implement a webhook using serverless - create a new repo for the daily challenges, listen to new PRs events and send out a celebratory tweet | **[Azure Functions - Webhooks](https://docs.microsoft.com/en-us/azure/iot-central/core/howto-trigger-azure-functions?WT.mc_id=25daysofserverless-github-cxa)** | **[Jen Looper](https://github.com/jlooper)** | **[Serverless Dreidel](https://aka.ms/AA6r47e)** |
+| Task Scheduler (**#2**) | Implement a cron job using serverless - send a daily reminder via text (use twilio) about the current challenge | **[Azure Functions - Cron Job](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio?WT.mc_id=25daysofserverless-github-cxa)** | **[Jen Looper](https://github.com/jlooper)** | **[Lucy's Dilemma](https://aka.ms/AA6qwkz)** |
+| Webhooks (**#3**) | Create a webhook with serverless that GitHub sends commit data | **[Azure Functions Docs](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=25daysofserverless-github-cxa)** | **[Christian Nwamba](https://github.com/christiannwamba)** | **[Github Commit (Push) Webhook](https://aka.ms/AA6r47c)** |
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us

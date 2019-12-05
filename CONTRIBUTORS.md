@@ -88,6 +88,17 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Chris Sainty](https://github.com/chrissainty/25DaysOfServerless/tree/master/Day1)
  * [Linda Nichols](https://github.com/lynnaloo/25-days-of-serverless-solutions/tree/master/dreidel-dreidel-dreidel) - Node.js
  * [Adriana NAVA AGUILAR](https://github.com/tennamiqui/25-days-of-serverless/tree/master/week-1/challenge-1) - C#
+* [David Ojeda](https://github.com/davidojedalopez/25-days-of-serverless-day-01) - Node.js
+* [Matthew Leibowitz](https://github.com/mattleibow/25-days-of-serverless/tree/implementations/week-1/challenge-1) - C#, Azure Functions
+* [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-1)
+* [Sébastien Jousse](https://github.com/sjousse/25DaysOfServerless/tree/master/Day01)
+* [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-1)
+* [Mike Wolford](https://github.com/mwolford/25Days-1)
+* [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/blob/master/HttpDreidel) - TypeScript
+* [Krunal Solanki ](https://github.com/krunalsolanki/Dreidel_Spin) - C#
+* [Kevin Remhof](https://github.com/KevinRemhof/25daysofserverless/tree/master/week-1/challenge-1) - C#
+* [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-1) - C#
+* [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day1)
 
 <hr/>
 
@@ -117,6 +128,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day2)
  * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-2)
  * [Darren Robinson](https://github.com/microsoft/25-days-of-serverless/pull/68/commits/496ed8f1ea9ae86a37b79df2c30897c7d8ec4f26)
+ * [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-2) 
 
 <hr/>
 

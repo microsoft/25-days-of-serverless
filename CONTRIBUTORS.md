@@ -141,8 +141,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [David Ojeda](https://github.com/davidojedalopez/day-03) - Node.js, AWS services
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/secretSantaHttp)- Node.js, Table Storage
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day3)
-  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_03) - C#, Azure Functions, MongoDB
- 
+ * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_03) - C#, Azure Functions, MongoDB
+ * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-03)
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 

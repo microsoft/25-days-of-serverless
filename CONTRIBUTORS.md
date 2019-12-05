@@ -136,6 +136,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 #### WEEK ONE - CHALLENGE 3
 
  * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day3FurryFriends) - PowerShell in Function App
+ * [Chris Sainty](https://github.com/chrissainty/25DaysOfServerless/tree/master/Day3)
  * [David Ojeda](https://github.com/davidojedalopez/day-03) - Node.js, AWS services
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/secretSantaHttp)- Node.js, Table Storage
  * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/SecretSanta) - TypeScript, Azure Functions, Azure SQL

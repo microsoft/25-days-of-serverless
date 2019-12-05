@@ -143,6 +143,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day3)
  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_03) - C#, Azure Functions, MongoDB
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-03)
+ * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day03)
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 

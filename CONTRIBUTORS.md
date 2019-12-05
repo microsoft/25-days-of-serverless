@@ -105,55 +105,56 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 2
 
+ * [Adriana NAVA AGUILAR](https://github.com/tennamiqui/25-days-of-serverless/tree/master/week-1/challenge-2) - C#
+ * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/2)
+ * [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-2) 
+ * [Chris Sainty](https://github.com/chrissainty/25DaysOfServerless/tree/master/Day1)
+ * [Darren Robinson](https://github.com/microsoft/25-days-of-serverless/pull/68/commits/496ed8f1ea9ae86a37b79df2c30897c7d8ec4f26)
+ * [Emmanuel Nwankwo](https://github.com/emmanuelnwankwo/25DaysOfServerless/tree/master/Challenge2) - Logic App
+ * [Erik Harris](https://github.com/ncsuWolfpack/25DaysOfServerless-Challenge1.git)
+ * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/LucyDilemma) - Logic App
+ * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-2)
+ * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_02)
+ * [Joshua Kroupenin](https://github.com/joshuakroupenin/lucyshedule) - Logic App
+ * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDay2)
+ * [Krunal Solanki](https://github.com/krunalsolanki/25DaysOfServerless/tree/master/Challenge2)
+ * [Linda Nichols](https://github.com/lynnaloo/25-days-of-serverless-solutions/tree/master/keep-the-candles-burning) - Logic App
  * [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-2) - Logic App
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-02)
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day2)
- * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_02)
- * [Emmanuel Nwankwo](https://github.com/emmanuelnwankwo/25DaysOfServerless/tree/master/Challenge2) - Logic App
- * [Adriana NAVA AGUILAR](https://github.com/tennamiqui/25-days-of-serverless/tree/master/week-1/challenge-2) - C#
  * [Mark Scholman](https://github.com/markscholman/25DaysOfServerless2019/tree/master/191201)
- * [Linda Nichols](https://github.com/lynnaloo/25-days-of-serverless-solutions/tree/master/keep-the-candles-burning) - Logic App
- * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day2) - Logic App
- * [Joshua Kroupenin](https://github.com/joshuakroupenin/lucyshedule) - Logic App
- * [JR Cook](https://github.com/Eldorian/25DaysOfServerlessDay2)
- * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day01)
- * [Erik Harris](https://github.com/ncsuWolfpack/25DaysOfServerless-Challenge1.git)
- * [Krunal Solanki](https://github.com/krunalsolanki/25DaysOfServerless/tree/master/Challenge2)
- * [Chris Sainty](https://github.com/chrissainty/25DaysOfServerless/tree/master/Day1)
  * [Narciso Ocampo](https://github.com/nardsocampo/25DaysOfServerless/tree/master/week-1/challenge-2)
- * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/LucyDilemma) - Logic App
+ * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day01)
  * [Oleksandr Olashyn](https://github.com/OOlashyn/DWC-25-days-of-serverless/tree/master/week-1/challenge-2/PowerAutomate)
- * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/02-task-scheduler)
- * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/2)
- * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day02)
  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day2)
- * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-2)
- * [Darren Robinson](https://github.com/microsoft/25-days-of-serverless/pull/68/commits/496ed8f1ea9ae86a37b79df2c30897c7d8ec4f26)
- * [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-2) 
-
+ * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day2) - Logic App
+ * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/02-task-scheduler)
+ * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day02)
+ 
 <hr/>
 
 #### WEEK ONE - CHALLENGE 3
 
  * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day3FurryFriends) - PowerShell in Function App
- * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/SecretSanta) - TypeScript, Azure Functions, Azure SQL
- * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day03) - Node.js Functions, Table Storage
- * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - Azure SQL Database & cat pics!!
  * [David Ojeda](https://github.com/davidojedalopez/day-03) - Node.js, AWS services
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/secretSantaHttp)- Node.js, Table Storage
- * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day3)
- * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_03) - C#, Azure Functions, MongoDB
- * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-03)
- * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day03)
- * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day3)
- * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/3-12) 
+ * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/SecretSanta) - TypeScript, Azure Functions, Azure SQL
  * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/day3)
+ * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_03) - C#, Azure Functions, MongoDB
+ * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day3)
+ * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-03)
+ * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day03) - Node.js Functions, Table Storage
+ * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/3-12) 
  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day3)
+ * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day3)
+ * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - Azure SQL Database & cat pics!!
+ * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day03)
+ * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) 
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 
 
- * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-04) - TypeScript, Azure Functions, MongoDB
+Azure Functions, MongoDB
  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_04) - C#, Azure Functions, MongoDB
-
+ * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-04) - TypeScript, 
 <hr/>

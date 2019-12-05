@@ -10,7 +10,6 @@ To enter our Hall of Fame, simply [review the challenges each day](https://dev.t
 
 Then read our [CONTRIBUTING](https://github.com/microsoft/25-days-of-serverless/blob/master/CONTRIBUTING.md) guidelines for the right way to submit your information to our team. We will process requests in batches, and respond to your submission (PR or Issue) to confirm your inclusion when done.
 
-
 ## Our Awesome Contributors
 
 We will be listing contributors in alphabetical order, by week, by challenge. At the end of the challenge we hope to recognize those who submitted the most solutions as well as feature interesting solutions from each week. So keep those contributions going!
@@ -85,6 +84,21 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/01-serverless-dreidel)
  * [Tjeerd-menno Douma](https://github.com/Tjeerd-menno/25DaysOfServerless/tree/master/day1) 
  * [Vojtěch Srdečný](https://github.com/srdecny/serverless/tree/master/week-1/challenge-1) 
+ * [Darren Robinson](https://github.com/microsoft/25-days-of-serverless/pull/68/commits/496ed8f1ea9ae86a37b79df2c30897c7d8ec4f26)
+ * [Chris Sainty](https://github.com/chrissainty/25DaysOfServerless/tree/master/Day1)
+ * [Linda Nichols](https://github.com/lynnaloo/25-days-of-serverless-solutions/tree/master/dreidel-dreidel-dreidel) - Node.js
+ * [Adriana NAVA AGUILAR](https://github.com/tennamiqui/25-days-of-serverless/tree/master/week-1/challenge-1) - C#
+* [David Ojeda](https://github.com/davidojedalopez/25-days-of-serverless-day-01) - Node.js
+* [Matthew Leibowitz](https://github.com/mattleibow/25-days-of-serverless/tree/implementations/week-1/challenge-1) - C#, Azure Functions
+* [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-1)
+* [Sébastien Jousse](https://github.com/sjousse/25DaysOfServerless/tree/master/Day01)
+* [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-1)
+* [Mike Wolford](https://github.com/mwolford/25Days-1)
+* [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/blob/master/HttpDreidel) - TypeScript
+* [Krunal Solanki ](https://github.com/krunalsolanki/Dreidel_Spin) - C#
+* [Kevin Remhof](https://github.com/KevinRemhof/25daysofserverless/tree/master/week-1/challenge-1) - C#
+* [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-1) - C#
+* [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day1)
 
 <hr/>
 
@@ -110,11 +124,11 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Oleksandr Olashyn](https://github.com/OOlashyn/DWC-25-days-of-serverless/tree/master/week-1/challenge-2/PowerAutomate)
  * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/02-task-scheduler)
  * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/2)
- * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/day02)
+ * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day02)
  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day2)
  * [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/challenges/week-1/challenge-2)
  * [Darren Robinson](https://github.com/microsoft/25-days-of-serverless/pull/68/commits/496ed8f1ea9ae86a37b79df2c30897c7d8ec4f26)
-
+ * [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-2) 
 
 <hr/>
 
@@ -127,11 +141,13 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [David Ojeda](https://github.com/davidojedalopez/day-03) - Node.js, AWS services
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/secretSantaHttp)- Node.js, Table Storage
  * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day3)
+  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_03) - C#, Azure Functions, MongoDB
  
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 
 
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-04) - TypeScript, Azure Functions, MongoDB
+ * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_04) - C#, Azure Functions, MongoDB
 
 <hr/>

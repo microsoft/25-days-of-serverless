@@ -145,6 +145,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-03)
  * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day03)
  * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day3)
+ * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/3-12) 
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 

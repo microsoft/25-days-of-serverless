@@ -1,23 +1,25 @@
-# Contributors Hall Of Fame
+# ⭐️Contributors Hall Of Fame ⭐️
+
+[![Java-Script.jpg](https://i.postimg.cc/DwHgwmjn/Java-Script.jpg)](https://postimg.cc/G4PYM3n5)
 
 Welcome to the [#25DaysOfServerless](https://aka.ms/25daysofserverless) Contributors Hall of Fame! 
 
 If you participated in the challenge between Dec 1 and Dec 25, and sent us the relevant information (name / challenge / solutions repo), then you should find your name in here. **Thank you for your contributions!!** We appreciated the enthusiasm and enjoyed checking out each and every one!
 
-## How to participate
+## How to participate? 💻
 
 To enter our Hall of Fame, simply [review the challenges each day](https://dev.to/azure/25-days-of-serverless-content-collection-3baj) and code your solution in the technology and programming language of your choice. 
 
 Then read our [CONTRIBUTING](https://github.com/microsoft/25-days-of-serverless/blob/master/CONTRIBUTING.md) guidelines for the right way to submit your information to our team. We will process requests in batches, and respond to your submission (PR or Issue) to confirm your inclusion when done.
 
-## Our Awesome Contributors
+## Our Awesome Contributors 🏆
 
 We will be listing contributors in alphabetical order, by week, by challenge. At the end of the challenge we hope to recognize those who submitted the most solutions as well as feature interesting solutions from each week. So keep those contributions going!
 
- * [Wk 1 : Challenge 1 : Spin up a Serverless Dreidel ](#week-one---challenge-1)
- * [Wk 1 : Challenge 2 : Lucy's Dilemma ](#week-one---challenge-2)
- * [Wk 1 : Challenge 3 : Secret Santa's Gifts](#week-one---challenge-3)
- * [Wk 1 : Challenge 4 : Ezra's Potluck ](#week-one---challenge-4)
+ * ⭐️[Wk 1 : Challenge 1 : Spin up a Serverless Dreidel ](#week-one---challenge-1)
+ * ⭐️[Wk 1 : Challenge 2 : Lucy's Dilemma ](#week-one---challenge-2)
+ * ⭐️[Wk 1 : Challenge 3 : Secret Santa's Gifts](#week-one---challenge-3)
+ * ⭐️[Wk 1 : Challenge 4 : Ezra's Potluck ](#week-one---challenge-4)
 
 <hr/>
 
@@ -155,7 +157,22 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 4 
 
-Azure Functions, MongoDB
+ * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day4potluck) - PowerShell, CosmosDB
+ * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/4) - Node.js & Table API 
+ * [David Ojeda](https://github.com/davidojedalopez/day-04) - AWS Lambda, Node.js,DynamoDB
+ * [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day4) - Node.js, Azure Functions, CosmosDB
+ * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/EzraParty) - TypeScript, Azure Functions, Azure CosmosDB 
+ * [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless.chall4) - C#
+  * [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-4) - C#, Azure Functions, Table Storage
  * [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_04) - C#, Azure Functions, MongoDB
- * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-04) - TypeScript, 
+  * [Kevin Candlert](https://github.com/KevinJCandlert/25-days-of-serverless-submissions/tree/master/25-days-of-serverless/day-4) - C#, Azure Functions, Table Storage
+ * [Marc Duiker](https://github.com/marcduiker/25daysofserverless2019/tree/master/src/Day04) - C#, Azure Functions, Table Storage
+ * [Manjunath P R](https://github.com/mangzee/25daysofserverless/tree/master/Day4) - C#, Mongo Atlas, Azure Functions 
+ * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-04) - TypeScript, Azure Functions
+ * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day04) - Node.js, Azure Functions, CosmosDB
+  * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day4) - C#, Azure Functions, CosmosDB
+ * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day4) - C#, Azure Functions with Function Proxies
+  * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day04) - C#, Azure Functions, Table Storage
+   * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/04-api-endpoint) - C#, Azure Functions, Table Storage
+
 <hr/>

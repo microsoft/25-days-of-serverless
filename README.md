@@ -53,6 +53,7 @@ Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines for additiona
     - [Challenge 4](week-1/challenge-4/README.md) 
      - [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/4-12)
     - [Challenge 5](week-1/challenge-5/README.md) 
+     - [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/5-12)
     - [Challenge 6](week-1/challenge-6/README.md) 
     - [Challenge 7](week-1/challenge-7/README.md) 
 

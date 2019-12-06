@@ -1,4 +1,4 @@
-# ⭐️Contributors Hall Of Fame ⭐️
+# Contributors Hall Of Fame ⭐️
 
 [![Java-Script.jpg](https://i.postimg.cc/DwHgwmjn/Java-Script.jpg)](https://postimg.cc/G4PYM3n5)
 

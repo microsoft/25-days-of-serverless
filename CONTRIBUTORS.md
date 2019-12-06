@@ -176,3 +176,19 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
    * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/04-api-endpoint) - C#, Azure Functions, Table Storage
 
 <hr/>
+
+#### WEEK ONE - CHALLENGE 5
+
+* [Name](contribution) - language
+
+* [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_05) - C#, Azure Functions
+* [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day05) - Node.js SDKs ,Blob Storage
+* [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/5) - NodeJS, written using an Azure Function App and the Azure Text Analytics API
+* [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless.chall5) - .NET C#
+* [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/NaughtyOrNice) TypeScript, Azure Functions, Azure Cognitive Services Text Analysis
+* [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day5) - Azure Functions, Azure Cognitive Service, .NET C#
+* [Gerade Geldenhuys](https://github.com/GeradeDev/25-days-of-serverless/tree/day04/week-1/Day5/NaughtyOrNice) - Azure Function, Language detector, Text Translator, Text analytics (Sentiment analysis) C# .NET
+* [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day5) - Logic App, Text translator API, Text Analytics API
+* [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-05) - Node.js Azure Function with Congitive Service (Translator Text + Text Analytics) using respective Node.js SDK's. 
+* [David Ojeda](https://github.com/davidojedalopez/day-05) - Uses AWS Comprehend to detect sentiment in words. 
+* [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day05) C# with .Net Core, Azure Functions, Azure Cognitive Services and some fun with tuples.

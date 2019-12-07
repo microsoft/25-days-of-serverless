@@ -159,6 +159,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
  * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day4potluck) - PowerShell, CosmosDB
  * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/4) - Node.js & Table API 
+ * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-4) - Node.js & Storage Table 
  * [David Ojeda](https://github.com/davidojedalopez/day-04) - AWS Lambda, Node.js,DynamoDB
  * [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day4) - Node.js, Azure Functions, CosmosDB
  * [Ethan Arrowood](https://github.com/Ethan-Arrowood/25-days-of-serverless-2019/tree/master/EzraParty) - TypeScript, Azure Functions, Azure CosmosDB 

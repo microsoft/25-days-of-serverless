@@ -113,4 +113,4 @@ New to serverless or Azure Functions? We have you covered. Here are a few resour
 
 ## Technical Posts/Blogs
 
-* [Azure CLI]()
+* []()

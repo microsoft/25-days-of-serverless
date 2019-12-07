@@ -15,6 +15,8 @@
     - **[Solutions](#solutions)** 💡
         - **[Solutions Week-1](#solutions-week-1)**  
     - **[Contributing](#contributing)** 🚩   
+    - **[Contributors Hall of Fame](CONTRIBUTORS.md)** 🏆  
+    - **[Awesome List - Azure Functions & Serverless](RESOURCES.md)** 📚  
 
 ## Main Goal
 

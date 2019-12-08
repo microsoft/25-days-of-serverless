@@ -169,6 +169,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Sébastien Jousse aka LINQ lover](https://github.com/sjousse/25DaysOfServerless/tree/master/Day03)
  * [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless/tree/master/Day%203)
  * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - `Azure SQL Database & cat pics!!`
+ * [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day3) - C#, Azure Functions, CosmosDb
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4 

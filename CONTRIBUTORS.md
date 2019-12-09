@@ -22,7 +22,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * ⭐️[Wk 1 : Challenge 4 : Ezra's Potluck](#week-one---challenge-4)
  * ⭐️[Wk 1 : Challenge 5 : Naughty Or Nice](#week-one---challenge-4)
  * ⭐️[Wk 1 : Challenge 6 : Ada's Gifts](#week-one---challenge-4)
- * ⭐️[Wk 1 : Challenge 6 : Santa's Image Diet](#week-one---challenge-4)
+ * ⭐️[Wk 1 : Challenge 7 : Santa's Image Diet](#week-one---challenge-4)
+ * ⭐️[Wk 2 : Challenge 8 : Reindeer Guidance & Delivery Status Page](#week-two---challenge-8)
 
 <hr/>
 
@@ -229,3 +230,14 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 #### WEEK ONE - CHALLENGE 7
 
 
+
+
+#### WEEK TWO - CHALLENGE 8
+
+* [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-8) - `Azure Functions, Azure Table Storage, SignalR and Blazor Web App`
+* [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day8Status) - `PowerShell in Azure Function App`
+* [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/08-incident-status-page) - `Azure CosmosDB, SignalR, Azure Functions, Azure Storage running a UI, Javascript`
+* [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day8) - `.net core 3. Durable Function - Durable entities, SignalR`
+* [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-08) - `C# Azure Functions with Azure Storage of status data, SignalR service for real-time updates to an Angular app`
+* [Chendrayan Venkatesan](https://github.com/ChendrayanV/iAzServerless/tree/master/IncidentStatus) - `PowerShell 😊 and ServiceNow REST API`
+* [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day8) - `Azure functions , vue.js sample`

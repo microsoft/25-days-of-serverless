@@ -13,6 +13,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aspittel",
+      "name": "Ali Spittel",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12969662?v=4",
+      "profile": "http://alispit.tel",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,

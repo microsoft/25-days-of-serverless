@@ -55,41 +55,6 @@ Be among the first contributors and solve the challenge within 24 hours of publi
 
 Have questions or comments? Submit a regular [ISSUE](https://github.com/microsoft/25-days-of-serverless/issues/new/choose) here with details.
 
-## Challenges
-
-- **[WEEK 1](#week-1)**
-    - [Challenge 1](week-1/challenge-1/README.md) 
-    - [Challenge 2](week-1/challenge-2/README.md) 
-    - [Challenge 3](week-1/challenge-3/README.md) 
-    - [Challenge 4](week-1/challenge-4/README.md) 
-    - [Challenge 5](week-1/challenge-5/README.md) 
-    - [Challenge 6](week-1/challenge-6/README.md) 
-    - [Challenge 7](week-1/challenge-7/README.md) 
-
-- **[Week 2](#week-2)** 
-    - [Challenge 8](week-2/challenge-8/README.md)   
-    - [Challenge 9](week-2/challenge-9/README.md)   
-    - [Challenge 10](week-2/challenge-10/README.md) 
-    - [Challenge 11](week-2/challenge-11/README.md) 
-    - [Challenge 12](week-2/challenge-12/README.md) 
-    - [Challenge 13](week-2/challenge-13/README.md)
-    - [Challenge 14](week-2/challenge-14/README.md) 
-
-- **[Week 3](#week-3)**
-    - [Challenge 15](week-3/challenge-15/README.md)
-    - [Challenge 16](week-3/challenge-16/README.md)
-    - [Challenge 17](week-3/challenge-17/README.md)
-    - [Challenge 18](week-3/challenge-18/README.md)
-    - [Challenge 19](week-3/challenge-19/README.md)
-    - [Challenge 20](week-3/challenge-20/README.md)
-    - [Challenge 21](week-3/challenge-21/README.md) 
-
-- **[Week 4](#week-4)** 
-    - [Challenge 22](week-4/challenge-22/README.md)
-    - [Challenge 23](week-4/challenge-23/README.md)
-    - [Challenge 24](week-4/challenge-24/README.md)
-    - [Challenge 25](week-4/challenge-25/README.md)
-
 ## Discord Channel
 
 Discussion Channels are available on Discord: [Permanent Link to Server](https://discord.gg/8kbAeud)
@@ -110,6 +75,11 @@ Here all the link solutions of each challenges published in **[dev.to](https://d
 | [Smart Apps (**#5**)](week-1/challenge-6/README.md) | Implement a function that calls the Cognitive Services text analytics API and translates/analyses sentiment for a given text | **[Text Analytics API Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/?WT.mc_id=25daysofserverless-github-cxa)** | **[Chris Noring](https://github.com/softchris)** | **[Naughty Or Nice](https://aka.ms/AA6r7f9)** |
 | [Durable Pattern (**#6**)](week-1/challenge-6/README.md)| Implement a function that schedules a message to be sent on Slack/Teams | **[Azure Functions - Durable Functions](https://docs.microsoft.com/azure/azure-functions/durable/quickstart-js-vscode?WT.mc_id=25daysofserverless-github-cxa)** | **[Christian Nwamba](https://github.com/christiannwamba)** | **[Ada's Gifts](https://aka.ms/AA6rjsw)** |
 | [Smart Apps (**#7**)](week-1/challenge-7/README.md)| Build an application that takes text as an input and returns an image found on unsplash or another image platform. | **[Azure Functions w/ Java](https://docs.microsoft.com/azure/azure-functions/functions-create-first-java-maven/?WT.mc_id=25daysofserverless-devto-cxa)** | **[Sandra Ahlgrimm](https://github.com/SandraAhlgrimm)** | **[Miguel needs our help](https://aka.ms/AA6rt4y)** |
+
+### Solutions Week-2
+
+| Challenges | Description | Important Resources | Responsible | Solution |
+|---|---|---|---|---|
 | [Status Page (**#8**)](week-2/challenge-8/README.md)| Build a method to communicate the current status and running log of service disruptions to a global audience. | **[SignalR](https://docs.microsoft.com/azure/azure-signalr/signalr-overview/?WT.mc_id=25daysofserverless-github-cxa)** | **[Jason Hand](https://github.com/jasonhand)** | **[Santa, we have a problem](https://aka.ms/AA6s5wo)** |
 
 ## Contributing

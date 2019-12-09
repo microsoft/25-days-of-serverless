@@ -37,9 +37,9 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * ⭐️[Wk 1 : Challenge 2 : Lucy's Dilemma](#week-one---challenge-2)
  * ⭐️[Wk 1 : Challenge 3 : Secret Santa's Gifts](#week-one---challenge-3)
  * ⭐️[Wk 1 : Challenge 4 : Ezra's Potluck](#week-one---challenge-4)
- * ⭐️[Wk 1 : Challenge 5 : Naughty Or Nice](#week-one---challenge-4)
- * ⭐️[Wk 1 : Challenge 6 : Ada's Gifts](#week-one---challenge-4)
- * ⭐️[Wk 1 : Challenge 7 : Santa's Image Diet](#week-one---challenge-4)
+ * ⭐️[Wk 1 : Challenge 5 : Naughty Or Nice](#week-one---challenge-5)
+ * ⭐️[Wk 1 : Challenge 6 : Ada's Gifts](#week-one---challenge-6)
+ * ⭐️[Wk 1 : Challenge 7 : Santa's Image Diet](#week-one---challenge-7)
  * ⭐️[Wk 2 : Challenge 8 : Reindeer Guidance & Delivery Status Page](#week-two---challenge-8)
 
 <hr/>
@@ -245,7 +245,22 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 <hr/>
 
 #### WEEK ONE - CHALLENGE 7
-
+* [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-07) `C#`
+* [Chendrayan Venkatesan](https://github.com/ChendrayanV/iAzServerless/tree/master/iUnsplashx) `PowerShell`
+* [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day07
+) `Node.js, Unsplash, ReactJS, Azure Storage`
+* [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/7-12) `PowerShell`
+* [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-7) `.NET Core, Unsplash Picture API`
+* [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless.chall7.git) `C#`
+* [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day7) `.net core 3.0,
+Cognitive service - Bing Image Search API,
+Azure KeyVault, Azure Functions`
+* [Gwyneth Pena](https://github.com/madebygps/25-days-of-serverless-2019/tree/master/day_07) `C#, dot net, Bing Image Search SDK, Azure Keyvault`
+* [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/07-picture-challenge) `C#, Unsplash`
+* [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day07) `C#, Unsplash`
+* [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day7Pictures) `Powershell`
+* [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-7) `C#, Unsplash`
+* [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day7) `TypeScript`
 
 
 

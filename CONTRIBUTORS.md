@@ -249,6 +249,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 * [Chendrayan Venkatesan](https://github.com/ChendrayanV/iAzServerless/tree/master/iUnsplashx) `Azure Functions, PowerShell`
 * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day07
 ) `Azure Functions, Node.js, Unsplash, ReactJS, Azure Storage`
+* [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day7) `C#, Azure function, Unsplash REST API`
 * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/7-12) `PowerShell, Azure Functions`
 * [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-7) `.NET Core, Unsplash Picture API, Azure Functions`
 * [Franz Helmberger](https://github.com/FranzHelm/hlc.25daysofserverless.chall7.git) `C#, Azure Functions`

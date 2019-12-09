@@ -140,7 +140,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://johnpapa.net"><img src="https://avatars2.githubusercontent.com/u/1202528?v=4" width="100px;" alt=""/><br /><sub><b>John Papa</b></sub></a><br /><a href="https://github.com/microsoft/25-days-of-serverless/commits?author=johnpapa" title="Code">💻</a></td>
     <td align="center"><a href="http://www.consultorinternet.com"><img src="https://avatars0.githubusercontent.com/u/1998996?v=4" width="100px;" alt=""/><br /><sub><b>Ernesto Cárdenas</b></sub></a><br /><a href="https://github.com/microsoft/25-days-of-serverless/commits?author=fisica3" title="Code">💻</a></td>
   </tr>
 </table>

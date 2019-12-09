@@ -1,0 +1,13 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "projectName": "25-days-of-serverless",
+  "projectOwner": "johnpapa",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}

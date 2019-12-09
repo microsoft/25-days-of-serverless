@@ -46,6 +46,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 1
 
+* 🏆 [Paul Shell](https://github.com/CloudExperiment/25-days-of-serverless/tree/master/week-1/challenge-1) - [Winner!](https://twitter.com/jenlooper/status/1201525971305869315)
  * [Adrienne Tacke](https://github.com/adriennetacke/25-days-of-serverless-2019/tree/master/day-1-dreidel-spin)
  * [Afreez Irekeola](https://github.com/Hayfeez/25daysofserverless/tree/master/Day%201%20-%20Serverless%20Driedel)
  * [Ali Spittel](https://github.com/aspittel/25-days-serverless/tree/master/dreidel) -- Python
@@ -93,9 +94,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Nitesh Shrestha](https://github.com/niteshrestha/25-days-of-serverless/tree/master/src/Challenge%201)
  * [Oleksandr Olashyn](https://github.com/OOlashyn/25-days-of-serverless/tree/master/week-1/challenge-1)
  * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/1-12)
- * [Paul Chin Jr.](https://github.com/pchinjr/25-days-of-serverless-solutions/tree/master/week-1)
- * [Paul Shell](https://github.com/CloudExperiment/25-days-of-serverless/tree/master/week-1/challenge-1)
- * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/day1)
+ * [Paul Chin Jr.](https://github.com/pchinjr/25-days-of-serverless-solutions/tree/master/week-1) 
+ * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/day1) 
  * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day1)
  * [Rogier Reedijk](https://github.com/xs4free/25-days-of-serverless-2019/tree/master/Day1) -- .NET Core 3
  * [Sajeetharan Sinnathurai](https://github.com/sajeetharan/25daysofserverless-spin-the-dreidel)
@@ -132,6 +132,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 2
 
+* 🏆 [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day2) - [Winner!](https://twitter.com/jenlooper/status/1201866366174842882)
  * [Adriana NAVA AGUILAR](https://github.com/tennamiqui/25-days-of-serverless/tree/master/week-1/challenge-2) - `C#`
  * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/2)
  * [Borko Djurkovic](https://github.com/borkod/25-Days-of-Serverless-Solutions/tree/master/Week-1/Challenge-2)
@@ -156,7 +157,6 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Narciso Ocampo](https://github.com/nardsocampo/25DaysOfServerless/tree/master/week-1/challenge-2)
  * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day01)
  * [Oleksandr Olashyn](https://github.com/OOlashyn/DWC-25-days-of-serverless/tree/master/week-1/challenge-2/PowerAutomate)
- * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day2)
  * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day2) - `Logic App`
  * [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless/tree/master/Day2)
  * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/02-task-scheduler)
@@ -166,6 +166,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 3
 
+ * 🏆 [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - `Azure SQL Database & cat pics!!` - [Winner!](https://twitter.com/jenlooper/status/1202230202631409671)
  * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day3FurryFriends) - `PowerShell in Function App`
  * [Chris Sainty](https://github.com/chrissainty/25DaysOfServerless/tree/master/Day3)
  * [David Ojeda](https://github.com/davidojedalopez/day-03) - `Node.js, AWS services`
@@ -186,12 +187,11 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
  * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day03)
  * [Sébastien Jousse aka LINQ lover](https://github.com/sjousse/25DaysOfServerless/tree/master/Day03)
  * [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless/tree/master/Day%203)
- * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/03-webhooks) - `Azure SQL Database & cat pics!!`
 <hr/>
 
 #### WEEK ONE - CHALLENGE 4
 
- * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day4potluck) - `PowerShell, CosmosDB`
+ * 🏆 [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day4potluck) - `PowerShell, CosmosDB` - [Winner!](https://twitter.com/jenlooper/status/1202589175180091397)
  * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/4) - `Node.js & Table Storage`
  * [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-4) - `Node.js & Storage Table`
  * [David Ojeda](https://github.com/davidojedalopez/day-04) - `AWS Lambda, Node.js,DynamoDB`
@@ -214,6 +214,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 5
 
+* 🏆 [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day5) - `Azure Functions, Azure Cognitive Service, .NET C#` - [Winner!](https://twitter.com/jenlooper/status/1202958630762504192)
 * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day5NaughtyorNice) - `PowerShell Function App and Azure Cognitive services`
 * [Blaine Price](https://github.com/wbprice/25-days-of-serverless-2019-solutions/tree/master/5) - `NodeJS, written using an Azure Function App and the Azure Text Analytics API`
 * [David Ojeda](https://github.com/davidojedalopez/day-05) - `Uses AWS Comprehend to detect sentiment in words.`
@@ -226,7 +227,6 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-05) - `Node.js Azure Function with Congitive Service (Translator Text + Text Analytics) using respective Node.js SDK's.`
 * [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/5-12) - `PowerShell`
 * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day5) - `Logic App, Text translator API, Text Analytics API`
-* [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day5) - `Azure Functions, Azure Cognitive Service, .NET C#`
 * [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day05) `C# with .Net Core, Azure Functions, Azure Cognitive Services and some fun with tuples.`
 * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/05-naughty-or-nice) `Azure Functions, Storage (Queue and Table), Azure Cognitive Services (Text Translator and Text Analytics) and an App Service. Oh, and C#`
 
@@ -234,9 +234,9 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK ONE - CHALLENGE 6
 
+* 🏆 [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-06) `TypeScript Azure Durable Functions with notifications to slack via webhook using Slack SDK.` - [Winner!](https://twitter.com/jenlooper/status/1203352300653338625)
 * [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day6Sinterklaas) `Azure Automation Account - Logic App - Teams`
 * [David Ojeda](https://github.com/davidojedalopez/day-06) `AWS Lambda with NodeJS.`
-* [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-06) `TypeScript Azure Durable Functions with notifications to slack via webhook using Slack SDK.`
 * [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day06) `Node.js, Durable Functions, Slack`
 * [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day6) `C#, Azure Durable function, LUIS, Slack API`
 * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day6) `C#, Azure Functions`
@@ -268,10 +268,10 @@ Azure KeyVault, Azure Functions`
 
 #### WEEK TWO - CHALLENGE 8
 
-* [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-8) - `Azure Functions, Azure Table Storage, SignalR and Blazor Web App`
-* [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day8Status) - `PowerShell in Azure Function App`
+* 🏆 [Gabor Gulyas](https://github.com/Bhawk90/25days-of-serverless/tree/master/day-8) - `Azure Functions, Azure Table Storage, SignalR and Blazor Web App` - [Winner!](https://twitter.com/jenlooper/status/1204081874458595329)
 * [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/08-incident-status-page) - `Azure CosmosDB, SignalR, Azure Functions, Azure Storage running a UI, Javascript`
-* [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day8) - `.net core 3. Durable Function - Durable entities, SignalR`
 * [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-08) - `C# Azure Functions with Azure Storage of status data, SignalR service for real-time updates to an Angular app`
+* [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day8Status) - `PowerShell in Azure Function App`
+* [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day8) - `.net core 3. Durable Function - Durable entities, SignalR`
 * [Chendrayan Venkatesan](https://github.com/ChendrayanV/iAzServerless/tree/master/IncidentStatus) - `PowerShell 😊 and ServiceNow REST API`
 * [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day8) - `Azure functions , vue.js sample`

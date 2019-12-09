@@ -1,22 +1,28 @@
 # 25 Days of Serverless
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 [![advent-of-serverless.gif](https://s5.gifyu.com/images/advent-of-serverless.gif)](https://gifyu.com/image/vNo5)
 
 ## Contents
 
 - **[Contents 25 days of Serverless](#contents-25-days-of-serverless)**
-    - **[Main Goal](#main-goal)** 🎯
-    - **[Rules](#rules)** 🎫
-    - **[Suggested Resources](#suggested-resources)** 📑
-    - **[Azure For Students Account](#azure-for-students-account)** ⭐️
-    - **[How Submit Your Solution](#submit-your-solution-as-a-custom-ISSUE-to-our-repository)** 🔥    
-    - **[Challenges](#challenges)** 💻   
-    - **[Discord Channel](#discord-channel)** 💬   
-    - **[Solutions](#solutions)** 💡
-        - **[Solutions Week-1](#solutions-week-1)**  
-    - **[Contributing](#contributing)** 🚩   
-    - **[Contributors Hall of Fame](CONTRIBUTORS.md)** 🏆  
-    - **[Awesome - Azure Functions & Serverless](RESOURCES.md)** 📚  
+  - **[Main Goal](#main-goal)** 🎯
+  - **[Rules](#rules)** 🎫
+  - **[Suggested Resources](#suggested-resources)** 📑
+  - **[Azure For Students Account](#azure-for-students-account)** ⭐️
+  - **[How Submit Your Solution](#submit-your-solution-as-a-custom-ISSUE-to-our-repository)** 🔥
+  - **[Challenges](#challenges)** 💻
+  - **[Discord Channel](#discord-channel)** 💬
+  - **[Solutions](#solutions)** 💡
+    - **[Solutions Week-1](#solutions-week-1)**
+  - **[Contributing](#contributing)** 🚩
+  - **[Contributors Hall of Fame](CONTRIBUTORS.md)** 🏆
+  - **[Awesome - Azure Functions & Serverless](RESOURCES.md)** 📚
 
 ## Main Goal
 
@@ -34,24 +40,24 @@ There is no better way to learn a new technology than with gamification. And we'
 
 ## Suggested Resources
 
-* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=25daysofserverless-github-cxa)** 
-* **[Azure Account](https://azure.microsoft.com/?WT.mc_id=25daysofserverless-github-cxa)** 
-* **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=25daysofserverless-github-cxa)** 
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=25daysofserverless-github-cxa)**
+- **[Azure Account](https://azure.microsoft.com/?WT.mc_id=25daysofserverless-github-cxa)**
+- **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=25daysofserverless-github-cxa)**
 
 ## Azure For Students Account
 
-If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)** account. This account will give you the benefit of having a $ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)**.
+If you are a student at a College or University, you can create your **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)** account. This account will give you the benefit of having a \$ 100 credit to use the Azure Services for free, without having a credit card and free developer tools as well. To activate this account, just access the link **[HERE](https://azure.microsoft.com/free/students/?WT.mc_id=25daysofserverless-github-cxa)**.
 
 ## Submit your solution as a custom ISSUE to our repository
- 
+
 🚨 **Submission Process Change:** Starting Dec 3, 2019 🚨
 
 > _We've been blown away at the interest and engagement around this challenge! The previous process used Pull Requests. The new process uses Issues. We hope this change makes it easier for you to send us your amazing work, and for us to highlight your contributions. New PRs after Dec 4, 2019 may not be processed._
 
 Be among the first contributors and solve the challenge within 24 hours of publishing. To have your contribution acknowledged, follow our [CONTRIBUTING.md](CONTRIBUTING.md) guidelines. The short version:
 
- 1. Create a Github repo with your solution for that challenge
- 2. Fill in the details for the [Challenge Solution Submission](https://github.com/microsoft/25-days-of-serverless/issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
+1.  Create a Github repo with your solution for that challenge
+2.  Fill in the details for the [Challenge Solution Submission](https://github.com/microsoft/25-days-of-serverless/issues/new?assignees=&labels=challenge-submission&template=challenge-solution-submission.md&title=%5BCHALLENGE+SUBMISSION%5D+) issue and submit.
 
 Have questions or comments? Submit a regular [ISSUE](https://github.com/microsoft/25-days-of-serverless/issues/new/choose) here with details.
 
@@ -62,7 +68,7 @@ We ask everyone to be fair and helpful and to not spoil the challenges by publis
 
 ## Solutions
 
-Here all the link solutions of each challenges published in **[dev.to](https://dev.to/)** 
+Here all the link solutions of each challenges published in **[dev.to](https://dev.to/)**
 
 ### Solutions Week-1
 
@@ -82,9 +88,10 @@ Here all the link solutions of each challenges published in **[dev.to](https://d
 |---|---|---|---|---|
 | [Status Page (**#8**)](week-2/challenge-8/README.md)| Build a method to communicate the current status and running log of service disruptions to a global audience. | **[SignalR](https://docs.microsoft.com/azure/azure-signalr/signalr-overview/?WT.mc_id=25daysofserverless-github-cxa)** | **[Jason Hand](https://github.com/jasonhand)** | **[Santa, we have a problem](https://aka.ms/AA6s5wo)** |
 
+
 ## Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
 
@@ -97,3 +104,23 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 **(documentation under development)**
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://www.consultorinternet.com"><img src="https://avatars0.githubusercontent.com/u/1998996?v=4" width="100px;" alt=""/><br /><sub><b>Ernesto Cárdenas</b></sub></a><br /><a href="https://github.com/microsoft/25-days-of-serverless/commits?author=fisica3" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

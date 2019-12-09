@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fisica3",
+      "name": "Ernesto Cárdenas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1998996?v=4",
+      "profile": "http://www.consultorinternet.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "25-days-of-serverless",
+  "projectOwner": "microsoft",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

@@ -1,6 +1,6 @@
 # 25 Days of Serverless
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![advent-of-serverless.gif](https://s5.gifyu.com/images/advent-of-serverless.gif)](https://gifyu.com/image/vNo5)
@@ -141,6 +141,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://johnpapa.net"><img src="https://avatars2.githubusercontent.com/u/1202528?v=4" width="100px;" alt=""/><br /><sub><b>John Papa</b></sub></a><br /><a href="https://github.com/microsoft/25-days-of-serverless/commits?author=johnpapa" title="Code">💻</a></td>
+    <td align="center"><a href="http://alispit.tel"><img src="https://avatars2.githubusercontent.com/u/12969662?v=4" width="100px;" alt=""/><br /><sub><b>Ali Spittel</b></sub></a><br /><a href="https://github.com/microsoft/25-days-of-serverless/commits?author=aspittel" title="Code">💻</a></td>
   </tr>
 </table>
 

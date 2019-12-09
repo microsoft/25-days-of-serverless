@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "johnpapa",
+      "name": "John Papa",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1202528?v=4",
+      "profile": "http://johnpapa.net",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "25-days-of-serverless",
+  "projectOwner": "microsoft",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

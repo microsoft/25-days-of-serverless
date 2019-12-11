@@ -285,3 +285,10 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day9) - `C#, Azure Functions, Octokit`
 - [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/9-12) - `Powershell, Azure Functions, GitHub Actions`
 - [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day9) - `Azure Functions, Octokit, C#`
+
+#### WEEK TWO - CHALLENGE 10
+- 🏆 [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/10-timer-trigger) - `Logic App, Table Storage, C#, Azure Functions, Angular, and Website with Azure Blob Storage`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-10) - `Azure Logic App, Azure Blob Storage, Website with Azure Blob Storage, and Vanilla JS`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day10) - `Azure Logic App, Azure Blob Storage, and Website with Azure Blob Storage`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/blob/master/Daya10DailyAggregatedDeals/Readme.md) - `Azure Logic App`
+- [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day10) - `C#, Azure Functions, Timer Trigger, Azure Blob and Table Storage`

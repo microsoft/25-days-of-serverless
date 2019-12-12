@@ -128,6 +128,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day1)
 - [Sharan Kumar](https://github.com/sharcastic/25days-of-serverless/tree/day-1-solution)
 - [Aryan Jabbari](https://github.com/AryanJ-NYC/25-days-of-serverless-challenge-1) - `TypeScript`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day1SpinDreidel) - `Python`
 
 <hr/>
 
@@ -163,6 +164,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/02-task-scheduler)
 - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day02)
 - [John Long](https://github.com/jolo-dev/azure-serverless/tree/jolo-challenge-1/challenge_2) - `Typescript and Azure's Logic App`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day2Lucy) - `Logic App`
 
 <hr/>
 
@@ -190,6 +192,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Sébastien Jousse aka LINQ lover](https://github.com/sjousse/25DaysOfServerless/tree/master/Day03)
 - [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless/tree/master/Day%203)
 - [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day3) - `C#, Azure Functions, CosmosDb`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day3SecretSanta) - `Python`
   <hr/>
 
 #### WEEK ONE - CHALLENGE 4

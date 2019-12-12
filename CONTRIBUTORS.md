@@ -166,6 +166,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day02)
 - [John Long](https://github.com/jolo-dev/azure-serverless/tree/jolo-challenge-1/challenge_2) - `Typescript and Azure's Logic App`
 - [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Day2Lucy) - `Logic App`
+- [Denis Sellu](https://github.com/denissellu/25-days-of-serverles/tree/master/challenge-2-lucy) - `Ruby, AWS Lambda, AWS Step function`
 
 <hr/>
 

@@ -127,6 +127,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Michael Brown](https://github.com/aguywithcode/25-days-of-serverless/tree/solutions/week-1/challenge-1) - `C#`
 - [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day1)
 - [Sharan Kumar](https://github.com/sharcastic/25days-of-serverless/tree/day-1-solution)
+- [Aryan Jabbari](https://github.com/AryanJ-NYC/25-days-of-serverless-challenge-1) - `TypeScript`
 
 <hr/>
 
@@ -161,6 +162,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless/tree/master/Day2)
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/02-task-scheduler)
 - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day02)
+- [John Long](https://github.com/jolo-dev/azure-serverless/tree/jolo-challenge-1/challenge_2) - `Typescript and Azure's Logic App`
 
 <hr/>
 
@@ -187,6 +189,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day03)
 - [Sébastien Jousse aka LINQ lover](https://github.com/sjousse/25DaysOfServerless/tree/master/Day03)
 - [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless/tree/master/Day%203)
+- [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day3) - `C#, Azure Functions, CosmosDb`
   <hr/>
 
 #### WEEK ONE - CHALLENGE 4
@@ -241,7 +244,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day6) `C#, Azure Durable function, LUIS, Slack API`
 - [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day6) `C#, Azure Functions`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/06-durable-pattern) `Slack, Azure Durable Functions and Javascript.`
-
+- [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day06) `C#, LUIS, DurableFunction`
 <hr/>
 
 #### WEEK ONE - CHALLENGE 7

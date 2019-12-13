@@ -130,6 +130,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Aryan Jabbari](https://github.com/AryanJ-NYC/25-days-of-serverless-challenge-1) - `TypeScript`
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day1SpinDreidel) - `Python`
 - [Denis Sellu](https://github.com/denissellu/25-days-of-serverles/tree/master/challenge-1-dreidel) - `Ruby, AWS Lambda, Invoke`
+- [Celestine Ekoh-Ordan](https://github.com/CEOehis/25-days-of-serverless/tree/master/challenge-1) - `JavaScript(NodeJS)`
 
 <hr/>
 

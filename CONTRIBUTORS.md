@@ -41,6 +41,12 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - ⭐️[Wk 1 : Challenge 6 : Ada's Gifts](#week-one---challenge-6)
 - ⭐️[Wk 1 : Challenge 7 : Santa's Image Diet](#week-one---challenge-7)
 - ⭐️[Wk 2 : Challenge 8 : Reindeer Guidance & Delivery Status Page](#week-two---challenge-8)
+- ⭐️[Wk 2 : Challenge 9](#week-two---challenge-9)
+- ⭐️[Wk 2 : Challenge 10](#week-two---challenge-10)
+- ⭐️[Wk 2 : Challenge 11](#week-two---challenge-11)
+- ⭐️[Wk 2 : Challenge 12](#week-two---challenge-12)
+- ⭐️[Wk 2 : Challenge 13](#week-two---challenge-13)
+- ⭐️[Wk 2 : Challenge 14](#week-two---challenge-14)
 
 <hr/>
 

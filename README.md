@@ -20,6 +20,8 @@
   - **[Discord Channel](#discord-channel)** 💬
   - **[Solutions](#solutions)** 💡
     - **[Solutions Week-1](#solutions-week-1)**
+    - **[Solutions Week-2](#solutions-week-2)**
+    - **[Solutions Week-3](#solutions-week-3)**
   - **[Contributing](#contributing)** 🚩
   - **[Contributors Hall of Fame](CONTRIBUTORS.md)** 🏆
   - **[Awesome - Azure Functions & Serverless](RESOURCES.md)** 📚

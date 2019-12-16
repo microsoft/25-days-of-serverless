@@ -33,21 +33,25 @@ Soon thereafter, the bot will create a Pull Request to add the contributor to th
 
 We will be listing contributors in alphabetical order, by week, by challenge. At the end of the challenge we hope to recognize those who submitted the most solutions as well as feature interesting solutions from each week. So keep those contributions going!
 
-- ⭐️[Wk 1 : Challenge 1 : Spin up a Serverless Dreidel ](#week-one---challenge-1)
-- ⭐️[Wk 1 : Challenge 2 : Lucy's Dilemma](#week-one---challenge-2)
-- ⭐️[Wk 1 : Challenge 3 : Secret Santa's Gifts](#week-one---challenge-3)
-- ⭐️[Wk 1 : Challenge 4 : Ezra's Potluck](#week-one---challenge-4)
-- ⭐️[Wk 1 : Challenge 5 : Naughty Or Nice](#week-one---challenge-5)
-- ⭐️[Wk 1 : Challenge 6 : Ada's Gifts](#week-one---challenge-6)
-- ⭐️[Wk 1 : Challenge 7 : Santa's Image Diet](#week-one---challenge-7)
-- ⭐️[Wk 2 : Challenge 8 : Reindeer Guidance & Delivery Status Page](#week-two---challenge-8)
-- ⭐️[Wk 2 : Challenge 9](#week-two---challenge-9)
-- ⭐️[Wk 2 : Challenge 10](#week-two---challenge-10)
-- ⭐️[Wk 2 : Challenge 11](#week-two---challenge-11)
-- ⭐️[Wk 2 : Challenge 12](#week-two---challenge-12)
-- ⭐️[Wk 2 : Challenge 13](#week-two---challenge-13)
-- ⭐️[Wk 2 : Challenge 14](#week-two---challenge-14)
-- ⭐️[Wk 3 : Challenge 15](#week-three---challenge-15)
+- [Contributors Hall Of Fame ⭐️](#contributors-hall-of-fame-%e2%ad%90%ef%b8%8f)
+  - [How to participate? 💻](#how-to-participate-%f0%9f%92%bb)
+  - [Adding a contributor](#adding-a-contributor)
+  - [Our Awesome Contributors 🏆](#our-awesome-contributors-%f0%9f%8f%86)
+      - [WEEK ONE - CHALLENGE 1](#week-one---challenge-1)
+      - [WEEK ONE - CHALLENGE 2](#week-one---challenge-2)
+      - [WEEK ONE - CHALLENGE 3](#week-one---challenge-3)
+      - [WEEK ONE - CHALLENGE 4](#week-one---challenge-4)
+      - [WEEK ONE - CHALLENGE 5](#week-one---challenge-5)
+      - [WEEK ONE - CHALLENGE 6](#week-one---challenge-6)
+      - [WEEK ONE - CHALLENGE 7](#week-one---challenge-7)
+      - [WEEK TWO - CHALLENGE 8](#week-two---challenge-8)
+      - [WEEK TWO - CHALLENGE 9](#week-two---challenge-9)
+      - [WEEK TWO - CHALLENGE 10](#week-two---challenge-10)
+      - [WEEK TWO - CHALLENGE 11](#week-two---challenge-11)
+      - [WEEK TWO - CHALLENGE 12](#week-two---challenge-12)
+      - [WEEK TWO - CHALLENGE 13](#week-two---challenge-13)
+      - [WEEK TWO - CHALLENGE 14](#week-two---challenge-14)
+      - [WEEK THREE - CHALLENGE 15](#week-three---challenge-15)
 
 <hr/>
 
@@ -309,6 +313,9 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day10) - `Azure Logic App, Azure Blob Storage, and Website with Azure Blob Storage`
 - [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/blob/master/Daya10DailyAggregatedDeals/Readme.md) - `Azure Logic App`
 -  [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/10-timer-trigger) - `Logic App, Table Storage, C#, Azure Functions, Angular, and Website with Azure Blob Storage`
+-  [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day10) - `C#, Logic App, Blob Storage`
+-  [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-10) - `Node, Azure Functions`
+
 
 <hr/>
 

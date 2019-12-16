@@ -47,6 +47,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - ⭐️[Wk 2 : Challenge 12](#week-two---challenge-12)
 - ⭐️[Wk 2 : Challenge 13](#week-two---challenge-13)
 - ⭐️[Wk 2 : Challenge 14](#week-two---challenge-14)
+- ⭐️[Wk 3 : Challenge 15](#week-three---challenge-15)
 
 <hr/>
 
@@ -332,3 +333,16 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 #### WEEK TWO - CHALLENGE 14
 
 - [Test](Test) - `Languages....`
+
+<hr/>
+
+#### WEEK THREE - CHALLENGE 15
+
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-15) - `Java Azure Function with Azure Cognitive Services Computer Vision`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day15) - `Bing Search API, Cognitive Services, Vision API, C#`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya15Weihnachtsmarkt) - `PowerShell Function App with the Unsplash API and Cognitive Services (Computer Vision)`
+- [Jayendran Arumugam](https://github.com/jayendranarumugam/25daysofserverless) - `Azure Computer Vision, Java Azure Functions`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/15-cognitive-services-computer-vision) - `Azure Function (v3), C#, Computer Vision, Azure's Cognitive Services`
+- [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-15) - `JavaScript, Unsplash`
+- [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day15) - `2 node.js functions, React UI (hosted on Azure Storage a/c), Cognitive Services Vision API`
+- [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day15) - `Typescript, Azure Function, Azure Computer Vision`

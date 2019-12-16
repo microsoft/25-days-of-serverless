@@ -13,7 +13,7 @@ For today's challenge, Anna needs a service that, given an image, describe the i
 -   **[UNSPLASH](https://unsplash.com)**
 -   **[Cognitive Services, Computer Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/home?WT.mc_id=25daysofserverless-github-cxa)**
 -   **[Cognitive Services API](https://westcentralus.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/56f91f2e778daf14a499e1fe?WT.mc_id=25daysofserverless-github-cxa)**
--   **[Quickstart: Computer Vision client library for Java](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts-sdk/?WT.mc_id=25daysofserverless-github-cxa)**
+-   **[Quickstart: Computer Vision client library for Java](https://docs.microsoft.com/azure/cognitive-services/computer-vision/quickstarts-sdk/java-sdk?WT.mc_id=25daysofserverless-github-cxa)**
 -   **[Azure Functions Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=25daysofserverless-github-cxa)**
 
 

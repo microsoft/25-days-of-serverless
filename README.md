@@ -98,7 +98,7 @@ Here all the link solutions of each challenges published in **[dev.to](https://d
 
 | Challenges | Description | Important Resources | Responsible | Solution |
 |---|---|---|---|---|
-| [Image Recognition and Description (**#15**)](https://25daysofserverless.com/calendar/15)| Integrate Cognitive Services and Computer Vision to calculate tags and descriptions for the images (builds on [challenge #7](https://github.com/microsoft/serverless-challenges/tree/master/week-1/challenge-7) ) | **[Computer Vision API](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/?WT.mc_id=25daysofserverless-github-cxa)** | **[Sandra Ahlgrimm](https://github.com/SandraAhlgrimm)** | **[]()** |
+| [Image Recognition and Description (**#15**)](https://25daysofserverless.com/calendar/15)| Integrate Cognitive Services and Computer Vision to calculate tags and descriptions for the images (builds on [challenge #7](https://github.com/microsoft/serverless-challenges/tree/master/week-1/challenge-7) ) | **[Computer Vision API](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/?WT.mc_id=25daysofserverless-github-cxa)** | **[Sandra Ahlgrimm](https://github.com/SandraAhlgrimm)** | **[TBI](to-be-included)** |
 
 ## Contributing
 

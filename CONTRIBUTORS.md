@@ -346,3 +346,4 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-15) - `JavaScript, Unsplash`
 - [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day15) - `2 node.js functions, React UI (hosted on Azure Storage a/c), Cognitive Services Vision API`
 - [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day15) - `Typescript, Azure Function, Azure Computer Vision`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day15cognitiveapi) - `Azure Functions, Python, Computer Vision`

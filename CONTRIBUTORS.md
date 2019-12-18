@@ -368,16 +368,20 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK TWO - CHALLENGE 14
 
-- [Test](Test) - `Languages....`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-14) - `C# Azure Functions, Azure SignalR Service and a Vue static website with Gravatar user icons.`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day14) - `Signal R, Azure AD, vue.js, .net core`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/) - `Azure function and Python`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/14-yule-book-flood) - `C#/Javascript`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya14YuleBookFlood) - `PowerShell Function App - SignalR - Azure Web App`
 
 <hr/>
 
 #### WEEK THREE - CHALLENGE 15
 
+- 🏆 [Jayendran Arumugam](https://github.com/jayendranarumugam/25daysofserverless) - `Azure Computer Vision, Java Azure Functions`
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-15) - `Java Azure Function with Azure Cognitive Services Computer Vision`
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day15) - `Bing Search API, Cognitive Services, Vision API, C#`
 - [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya15Weihnachtsmarkt) - `PowerShell Function App with the Unsplash API and Cognitive Services (Computer Vision)`
-- [Jayendran Arumugam](https://github.com/jayendranarumugam/25daysofserverless) - `Azure Computer Vision, Java Azure Functions`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/15-cognitive-services-computer-vision) - `Azure Function (v3), C#, Computer Vision, Azure's Cognitive Services`
 - [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-15) - `JavaScript, Unsplash`
 - [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day15) - `2 node.js functions, React UI (hosted on Azure Storage a/c), Cognitive Services Vision API`

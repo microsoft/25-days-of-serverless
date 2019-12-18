@@ -232,6 +232,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day4) - `C#, Azure Functions with Function Proxies`
 - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day04) - `C#, Azure Functions, Table Storage`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/04-api-endpoint) - `C#, Azure Functions, Table Storage`
+- [Abhishek Chaudhary](https://github.com/abhishek0220/25daysofserverless/tree/master/challenge_4) - `Python, CosmosDB`
 
 <hr/>
 
@@ -252,6 +253,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day5) - `Logic App, Text translator API, Text Analytics API`
 - [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day05) `C# with .Net Core, Azure Functions, Azure Cognitive Services and some fun with tuples.`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/05-naughty-or-nice) `Azure Functions, Storage (Queue and Table), Azure Cognitive Services (Text Translator and Text Analytics) and an App Service. Oh, and C#`
+- [Abhishek Chaudhary](https://github.com/abhishek0220/25daysofserverless/tree/master/challenge_5) `Python with Text Analytics API`
 
 <hr/>
 
@@ -284,6 +286,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-7) `Azure Functions, C#, Unsplash`
 - [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day7) `Azure Functions, TypeScript`
 - [David Ojeda](https://github.com/davidojedalopez/day-07) `AWS Lambda, NodeJS, Unsplash`
+- [Abhishek Chaudhary](https://github.com/abhishek0220/25daysofserverless/tree/master/challenge_7) `Python and unsplash API`
+<hr />
 
 #### WEEK TWO - CHALLENGE 8
 
@@ -294,6 +298,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day8) - `.net core 3. Durable Function - Durable entities, SignalR`
 - [Chendrayan Venkatesan](https://github.com/ChendrayanV/iAzServerless/tree/master/IncidentStatus) - `PowerShell 😊 and ServiceNow REST API`
 - [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day8) - `Azure functions , vue.js sample`
+<hr />
 
 #### WEEK TWO - CHALLENGE 9
 
@@ -308,6 +313,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day9) - `C#, Azure Functions, Octokit`
 - [Olivier Miossec](https://github.com/omiossec/25-days-of-serverless-omc/tree/master/9-12) - `Powershell, Azure Functions, GitHub Actions`
 - [Rahul Ruikar](https://github.com/rahulruikar/25DaysOfServerless/tree/master/Day9) - `Azure Functions, Octokit, C#`
+<hr />
 
 #### WEEK TWO - CHALLENGE 10
 

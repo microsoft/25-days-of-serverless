@@ -332,7 +332,15 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK TWO - CHALLENGE 11
 
-- [Test](Test) - `Languages....`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-11) - `C#, HTML, Slack API, etc`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day11) - `Cosmos Db, slack api - incoming webhooks, c#`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/) - `Azure functions using Python`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya11Wishmaster2000) - `PowerShell in a function App - CosmosDB - Teams`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/11-wishlist) - `C# Azure Functions and MVC site. CosmosDB, Slack API`
+- [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-11) - `JavaScript, CosmosDB, Slack API`
+- [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day11) - `C#, HTTP triggered functions, Azure Queue Storage, Azure Table Storage, Teams API`
+- [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day11) - `JavaScript, CosmosDB, Slack webhook`
+- [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-11) - `JavaScript, CosmosDB, Slack Webhook`
 
 <hr/>
 
@@ -366,3 +374,4 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day15) - `2 node.js functions, React UI (hosted on Azure Storage a/c), Cognitive Services Vision API`
 - [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day15) - `Typescript, Azure Function, Azure Computer Vision`
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day15cognitiveapi) - `Azure Functions, Python, Computer Vision`
+- [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-15) - `JavaScript, Cognitive Services`

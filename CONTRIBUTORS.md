@@ -210,6 +210,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day3) - `C#, Azure Functions, CosmosDb`
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day3SecretSanta) - `Python`
 - [John Long](https://github.com/jolo-dev/azure-serverless/tree/jolo-challenge-1/challenge_3) - `Python`
+- [Abhishek Chaudahry](https://github.com/abhishek0220/25daysofserverless/tree/master/challenge_3) - `Python, CosmosDB`
   <hr/>
 
 #### WEEK ONE - CHALLENGE 4
@@ -287,6 +288,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day7) `Azure Functions, TypeScript`
 - [David Ojeda](https://github.com/davidojedalopez/day-07) `AWS Lambda, NodeJS, Unsplash`
 - [Abhishek Chaudhary](https://github.com/abhishek0220/25daysofserverless/tree/master/challenge_7) `Python and unsplash API`
+- [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day7) `C#, Azure Function, Unsplash Api`
 <hr />
 
 #### WEEK TWO - CHALLENGE 8
@@ -342,7 +344,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK TWO - CHALLENGE 13
 
-- [Test](Test) - `Languages....`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya13GetaJoke) - `PowerShell, CosmosDB`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day13jokeapi) - `Python`
 
 <hr/>
 

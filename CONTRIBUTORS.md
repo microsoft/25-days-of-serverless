@@ -332,9 +332,9 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK TWO - CHALLENGE 11
 
+- 🏆 [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/) - `Azure functions using Python`
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-11) - `C#, HTML, Slack API, etc`
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day11) - `Cosmos Db, slack api - incoming webhooks, c#`
-- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/) - `Azure functions using Python`
 - [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya11Wishmaster2000) - `PowerShell in a function App - CosmosDB - Teams`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/11-wishlist) - `C# Azure Functions and MVC site. CosmosDB, Slack API`
 - [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-11) - `JavaScript, CosmosDB, Slack API`

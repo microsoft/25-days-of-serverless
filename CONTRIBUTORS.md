@@ -142,6 +142,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day1SpinDreidel) - `Python`
 - [Denis Sellu](https://github.com/denissellu/25-days-of-serverles/tree/master/challenge-1-dreidel) - `Ruby, AWS Lambda, Invoke`
 - [Celestine Ekoh-Ordan](https://github.com/CEOehis/25-days-of-serverless/tree/master/challenge-1) - `JavaScript(NodeJS)`
+- [Abhishek Chaudhary](https://github.com/abhishek0220/25daysofserverless/tree/master/challenge_1) - `Python`
+- [Maciej Skuratowski](https://github.com/mskuratowski/25-days-of-serverless/tree/master/challenge-1) - `C#`
 
 <hr/>
 

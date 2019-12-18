@@ -52,6 +52,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
       - [WEEK TWO - CHALLENGE 13](#week-two---challenge-13)
       - [WEEK TWO - CHALLENGE 14](#week-two---challenge-14)
       - [WEEK THREE - CHALLENGE 15](#week-three---challenge-15)
+      - [WEEK THREE - CHALLENGE 16](#week-three---challenge-16)
 
 <hr/>
 
@@ -388,3 +389,11 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Drew Skwiers-Koballa](https://github.com/dzsquared/25-days-of-serverless-day15) - `Typescript, Azure Function, Azure Computer Vision`
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day15cognitiveapi) - `Azure Functions, Python, Computer Vision`
 - [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-15) - `JavaScript, Cognitive Services`
+
+#### WEEK THREE - CHALLENGE 16
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-16) - `Typescript Azure Function with Github Actions CI/CD`
+- [Jayendran Arumugam](https://github.com/jayendranarumugam/25daysofserverless/tree/master/CH16.functions) - `Python Azure Functions, Azure DevOps Pipeline CICD, VSCode`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day16) - `c#, Azure DevOps, Azure Pipelines, Arm templates`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya16Posadas) - `PowerShell Function App, Azure DevOps`
+- [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day16) - `Simple node.js function, CI/CD with Azure DevOps`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day16posadas) - `Python, JSON schema, GitHub Actions`

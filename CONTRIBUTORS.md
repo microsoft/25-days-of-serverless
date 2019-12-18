@@ -209,6 +209,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Shayan R S](https://github.com/Shayanrs31/25-days-of-serverless/tree/master/Day%203)
 - [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day3) - `C#, Azure Functions, CosmosDb`
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day3SecretSanta) - `Python`
+- [John Long](https://github.com/jolo-dev/azure-serverless/tree/jolo-challenge-1/challenge_3) - `Python`
   <hr/>
 
 #### WEEK ONE - CHALLENGE 4

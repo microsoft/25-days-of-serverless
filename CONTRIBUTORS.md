@@ -346,7 +346,16 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK TWO - CHALLENGE 12
 
-- [Test](Test) - `Languages....`
+- 🏆 [Mateusz Ochęcki](https://github.com/mochecki/25daysofserverless/tree/master/day12) - `Azure Function 3.0, .net core 3.0, API Management (Consumption Plan) with caching policy`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-12) - `JavaScript, Redis`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/12-caching) - `C#, Redis`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day12) - `C#, .net core 3.0, octokit, markdig, Azure Redis cache`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya12HolidayCards) - `PowerShell Function App ⚡ with the Github Markdown API`
+- [Samuele Cozzi](https://github.com/samuele-cozzi/25-days-of-serverless-code/tree/master/day-12) - `JavaScript, Redis`
+- [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day12) - `Gist APIs, Github emoji APIs, Azure Redis Cache`
+- [Scott Rudy](https://github.com/scottrudy/25-days-of-serverless-dotnet/tree/master/day12) - `C#. HTTP triggered function leveraging input binding for Azure Table Storage for caching. Github Content API.`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day12caching) - `Python, Redis`
+- [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-12) - `NodeJS and Redis`
 
 <hr/>
 

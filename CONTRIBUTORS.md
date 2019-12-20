@@ -145,6 +145,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Celestine Ekoh-Ordan](https://github.com/CEOehis/25-days-of-serverless/tree/master/challenge-1) - `JavaScript(NodeJS)`
 - [Abhishek Chaudhary](https://github.com/abhishek0220/25daysofserverless/tree/master/challenge_1) - `Python`
 - [Maciej Skuratowski](https://github.com/mskuratowski/25-days-of-serverless/tree/master/challenge-1) - `C#`
+- [Agata Krauzewicz](https://github.com/ExpressionSigh/25DaysOfServerless/tree/master/Challenge1) - `C#`
 
 <hr/>
 

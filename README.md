@@ -8,6 +8,11 @@
 
 [![advent-of-serverless.gif](https://s5.gifyu.com/images/advent-of-serverless.gif)](https://gifyu.com/image/vNo5)
 
+## OOF Announcement
+*The unthinkable has happened: after weeks of community members all over the globe chipping in to help solve people's problems with serverless technology, the evil grinch's heart is starting to soften! He's still not quite ready to give up his server-stealing plot, but our whole Azure Cloud Advocacy team is flying up to the grinch's lair to help convince him to change his ways.*
+
+*As such, the team behind 25 Days of Serverless is OOF (Out Of Facility/Office) between Dec 24, 2019 and January 1, 2020. We'll not review Issues in this period of time, but encourage you to catch up on any challenges you haven't had the time to work on yet. :smiley: Our [Discord Server](https://discord.gg/8kbAeud) is a perfect place to reach out to for community support during this time. After our return, we'll add contributors who submitted a working solution as an Issue to CONTRIBUTORS.md file until January 15, 2020.*
+
 ## Contents
 
 - **[Contents 25 days of Serverless](#contents-25-days-of-serverless)**

@@ -398,3 +398,4 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya16Posadas) - `PowerShell Function App, Azure DevOps`
 - [Niall Kelly](https://github.com/nkelly75/25-days-of-serverless/tree/master/day16) - `Simple node.js function, CI/CD with Azure DevOps`
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day16posadas) - `Python, JSON schema, GitHub Actions`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/16-ci-cd-for-azure-functions) - `C++, Azure Pipelines, ARM templates`

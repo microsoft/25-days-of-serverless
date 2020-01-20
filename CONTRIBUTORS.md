@@ -365,6 +365,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 - [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya13GetaJoke) - `PowerShell, CosmosDB`
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day13jokeapi) - `Python`
+- [Paweł Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day13/Functions) - `Python`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/13-the-yule-lads) - `Python`
 
 <hr/>
 

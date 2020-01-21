@@ -111,7 +111,7 @@ Here all the link solutions of each challenges published in **[dev.to](https://d
 
 | Challenges | Description | Important Resources | Responsible | Solution |
 |---|---|---|---|---|
-| [Azure Key Vault Backup/Restore (**#22**)](https://25daysofserverless.com/calendar/22)| Backup and restore Azure Key Vault secrets to/from Azure Blob Storage, using Manged Identity | **[Azure Functions with Managed Identity](https://docs.microsoft.com/azure/app-service/overview-managed-identity/?WT.mc_id=25daysofserverless-github-cxa)** | **[Justin Yoo](https://github.com/justinyoo)** | **[Winter Solstice: Protect Secrets from Grim Reaper!]([to-be-included](https://dev.to/azure/backup-restore-key-vault-day-22-of-25daysofserverless-winter-solstice-protect-secrets-from-grim-reaper-3n37))** |
+| [Azure Key Vault Backup/Restore (**#22**)](https://25daysofserverless.com/calendar/22)| Backup and restore Azure Key Vault secrets to/from Azure Blob Storage, using Manged Identity | **[Azure Functions with Managed Identity](https://docs.microsoft.com/azure/app-service/overview-managed-identity/?WT.mc_id=25daysofserverless-github-cxa)** | **[Justin Yoo](https://github.com/justinyoo)** | **[Winter Solstice: Protect Secrets from Grim Reaper!](https://dev.to/azure/backup-restore-key-vault-day-22-of-25daysofserverless-winter-solstice-protect-secrets-from-grim-reaper-3n37)** |
 
 ## Contributing
 

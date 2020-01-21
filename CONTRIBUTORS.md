@@ -53,6 +53,8 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
       - [WEEK TWO - CHALLENGE 14](#week-two---challenge-14)
       - [WEEK THREE - CHALLENGE 15](#week-three---challenge-15)
       - [WEEK THREE - CHALLENGE 16](#week-three---challenge-16)
+      - [WEEK THREE - CHALLENGE 19](#week-three---challenge-19)
+      - [WEEK THREE - CHALLENGE 20](#week-three---challenge-20)
       - [WEEK FOUR - CHALLENGE 23](#week-four---challenge-23)
 
 <hr/>
@@ -403,6 +405,17 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day16posadas) - `Python, JSON schema, GitHub Actions`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/16-ci-cd-for-azure-functions) - `C++, Azure Pipelines, ARM templates`
 
+#### WEEK THREE - CHALLENGE 19
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/19-durable-entities) - `python, logic apps`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya19Balloons) - `Powershell, `
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day19/Functions) - `C#, Durable Entities`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-19) - ``
+
+#### WEEK THREE - CHALLENGE 20
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/20-iot-with-cognitive-services) - `Azure Functions, Cognitive Services, Xamarin`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day20/Functions) - `Azure Functions, Blob triggers, Signalr`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-20) - `Azure Functions, C#, Computer Vision, Slack`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya20AreTherePresentsYet) - `Powershell, blob triggers, IoT Hub, Computer vision, Email`
 
 #### WEEK FOUR - CHALLENGE 23
 

@@ -107,6 +107,12 @@ Here all the link solutions of each challenges published in **[dev.to](https://d
 |---|---|---|---|---|
 | [Image Recognition and Description (**#15**)](https://25daysofserverless.com/calendar/15)| Integrate Cognitive Services and Computer Vision to calculate tags and descriptions for the images (builds on [challenge #7](https://github.com/microsoft/serverless-challenges/tree/master/week-1/challenge-7) ) | **[Computer Vision API](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/?WT.mc_id=25daysofserverless-github-cxa)** | **[Sandra Ahlgrimm](https://github.com/SandraAhlgrimm)** | **[TBI](to-be-included)** |
 
+### Solutions Week-4
+
+| Challenges | Description | Important Resources | Responsible | Solution |
+|---|---|---|---|---|
+| [Azure Key Vault Backup/Restore (**#22**)](https://25daysofserverless.com/calendar/22)| Backup and restore Azure Key Vault secrets to/from Azure Blob Storage, using Manged Identity | **[Azure Functions with Managed Identity](https://docs.microsoft.com/azure/app-service/overview-managed-identity/?WT.mc_id=25daysofserverless-github-cxa)** | **[Justin Yoo](https://github.com/justinyoo)** | **[Winter Solstice: Protect Secrets from Grim Reaper!](https://dev.to/azure/backup-restore-key-vault-day-22-of-25daysofserverless-winter-solstice-protect-secrets-from-grim-reaper-3n37)** |
+
 ## Contributing
 
 This project welcomes contributions and suggestions. Most contributions require you to agree to a

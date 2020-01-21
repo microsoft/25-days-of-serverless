@@ -412,7 +412,10 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-19) - ``
 
 #### WEEK THREE - CHALLENGE 20
-
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/20-iot-with-cognitive-services) - `Azure Functions, Cognitive Services, Xamarin`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day20/Functions) - `Azure Functions, Blob triggers, Signalr`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-20) - `Azure Functions, C#, Computer Vision, Slack`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya20AreTherePresentsYet) - `Powershell, blob triggers, IoT Hub, Computer vision, Email`
 
 #### WEEK FOUR - CHALLENGE 23
 

@@ -436,14 +436,14 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 - [Paweł Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day22/Functions) &ndash; `Azure Functions`, `C#`, `IoC container`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/22-kay-vault-backup) &ndash; `Azure Functions`, `C#`
-- [Barbara 4bes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya22WinterSolstice) &ndash; `Azure Functions`, `PowerShell`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya22WinterSolstice) &ndash; `Azure Functions`, `PowerShell`
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-22) &ndash; `Azure Functions`, `C#`, `Azure CLI`, `Managed Identity`
 
 ---
 
 #### WEEK FOUR - CHALLENGE 23
 
-- [Barbara 4bes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya23ChasseGalerie) - `Azure Functions with PowerShell`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya23ChasseGalerie) - `Azure Functions with PowerShell`
 - [Paweł Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day23) - `Azure Functions, C#`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/23-instrumenting-functions) - `Azure Functions with C#, Durable Entities, Application Insights, ARM templates`
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-23) - `Azure Functions with Node, Application Insights`
@@ -457,7 +457,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 #### WEEK FOUR - CHALLENGE 25
 
-- [Barbara 4bes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya25KheerRecipe) - `PowerShell function App, Cognitive services (SpeechToText), Storage Account`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya25KheerRecipe) - `PowerShell function App, Cognitive services (SpeechToText), Storage Account`
 - [Paweł Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day25) - `Twillo, Blob storage, cognitive speech service, dotnet`
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/25-audio-transcription) - `C#, Azure Function, Speech to Text Cognitive Service and Twilio`
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-25) - `C# Azure Function, Speech to Text and Blob Storage`

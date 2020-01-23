@@ -53,6 +53,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
       - [WEEK TWO - CHALLENGE 14](#week-two---challenge-14)
       - [WEEK THREE - CHALLENGE 15](#week-three---challenge-15)
       - [WEEK THREE - CHALLENGE 16](#week-three---challenge-16)
+      - [WEEK THREE - CHALLENGE 18](#week-three---challenge-18)
       - [WEEK THREE - CHALLENGE 19](#week-three---challenge-19)
       - [WEEK THREE - CHALLENGE 20](#week-three---challenge-20)
       - [WEEK FOUR - CHALLENGE 22](#week-four---challenge-22)
@@ -410,10 +411,21 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 
 ---
 
-#### WEEK FOUR - CHALLENGE 17
+#### WEEK THREE - CHALLENGE 17
 ---
 
-#### WEEK FOUR - CHALLENGE 18
+#### WEEK THREE - CHALLENGE 18
+- 🏆 [Mandar Dharmadhikari](https://github.com/mandardhikari/25DaysOfServerlessChallange18) - `azure functions, event grid, blob trigger`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-18) - `C# Azure Function, Blob Trigger and Computer Vision`
+- [Jayendran Arumugam](https://github.com/jayendranarumugam/25daysofserverless/tree/master/ComputervisionCh18.functions) - `Azure Functions with Java, Computer Vision, Blob Trigger`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya18ThePerfectGift) - `PowerShell Function App, Computer Vision and Sendgrid`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day18) - `C#, Blob Storage, SignalR, Bootstrap`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/18-wrapping-the-perfect-gift) - `A C# Azure Function, Computer Vision as well as blob and table storage within a Storage Account`
+- [Maciej Skuratowski](https://github.com/mskuratowski/25-days-of-serverless/tree/master/challenge-18) - `C#, Azure Functions, Blob Storage, Blob Trigger, Table Storage, Table Trigger`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day18giftPicture) - `Azure functions & Python`
+- [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-18) - `NodeJS with Azure Cognitive Service and a post hook to Slack`
+
+
 ---
 
 #### WEEK THREE - CHALLENGE 19

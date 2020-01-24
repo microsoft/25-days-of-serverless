@@ -460,10 +460,13 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/23-instrumenting-functions) - `Azure Functions with C#, Durable Entities, Application Insights, ARM templates`
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-23) - `Azure Functions with Node, Application Insights`
 
-
 ---
 
 #### WEEK FOUR - CHALLENGE 24
+
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya24Gavlebocken) - `Logic App, Sentiment Analysis`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-24) - `C# Azure Function, Key Vault, Managed Identity and Twitter webhooks`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/24-security-and-integrity) - `C#, Logic App, CosmosDB, Azure Functions, Translation and Sentiment Analysis, App Service for the UI, Azure Key Vault.`
 
 ---
 

@@ -56,6 +56,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
       - [WEEK THREE - CHALLENGE 18](#week-three---challenge-18)
       - [WEEK THREE - CHALLENGE 19](#week-three---challenge-19)
       - [WEEK THREE - CHALLENGE 20](#week-three---challenge-20)
+      - [WEEK THREE - CHALLENGE 21](#week-three---challenge-21)
       - [WEEK FOUR - CHALLENGE 22](#week-four---challenge-22)
       - [WEEK FOUR - CHALLENGE 23](#week-four---challenge-23)
 
@@ -441,6 +442,15 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 - [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day20/Functions) - `Azure Functions, Blob triggers, Signalr`
 - [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-20) - `Azure Functions, C#, Computer Vision, Slack`
 - [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya20AreTherePresentsYet) - `Powershell, blob triggers, IoT Hub, Computer vision, Email`
+
+---
+
+#### WEEK THREE - CHALLENGE 21
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya21GiftRegistries) - `PowerShell Function App and CosmosDB`
+- [Colin Bates](https://github.com/ckabates/25-days-of-serverless-solutions/tree/master/Day21) - `C#, Azure Functions, Entity Functions, Postman`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/tree/master/Day-21) - `C# Azure Durable Entity Functions`
+- [Pawal Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day21) - `C#, Durable Entities, Durable function`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/21-serverless-workflows-durable-functions) - `Azure Function using Durable Entities and written in C#`
 
 ---
 

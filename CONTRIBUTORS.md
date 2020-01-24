@@ -60,6 +60,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
       - [WEEK FOUR - CHALLENGE 22](#week-four---challenge-22)
       - [WEEK FOUR - CHALLENGE 23](#week-four---challenge-23)
       - [WEEK FOUR - CHALLENGE 24](#week-four---challenge-24)
+      - [WEEK FOUR - CHALLENGE 25](#week-four---challenge-25)
 
 <hr/>
 

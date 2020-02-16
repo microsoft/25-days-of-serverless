@@ -53,6 +53,7 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
       - [WEEK TWO - CHALLENGE 14](#week-two---challenge-14)
       - [WEEK THREE - CHALLENGE 15](#week-three---challenge-15)
       - [WEEK THREE - CHALLENGE 16](#week-three---challenge-16)
+      - [WEEK THREE - CHALLENGE 17](#week-three---challenge-17)
       - [WEEK THREE - CHALLENGE 18](#week-three---challenge-18)
       - [WEEK THREE - CHALLENGE 19](#week-three---challenge-19)
       - [WEEK THREE - CHALLENGE 20](#week-three---challenge-20)
@@ -415,6 +416,14 @@ We will be listing contributors in alphabetical order, by week, by challenge. At
 ---
 
 #### WEEK THREE - CHALLENGE 17
+
+- [Daniel Paulus](https://github.com/dpnl87/25daysofserverless2019/tree/master/src/day-17) - `NodeJS, Azure Functions`
+- [Deepak Dhami](https://github.com/DexterPOSH/25dayofserverless/tree/master/day17IoT) - `Python Azure Functions`
+- [Stuart Leaver](https://github.com/stuartleaver/25-days-of-serverless/tree/master/17-iot-hub) - `Azure Logic Apps, with web front end`
+- [Pawel Haracz](https://github.com/PawelHaracz/25daysofserverless/tree/master/Day17) - `Python Azure Functions`
+- [Barbara Forbes](https://github.com/Ba4bes/25daysofserverless/tree/master/Daya17BBQontheBeach) - `Powershell Azure Function`
+- [Marcus Turewicz](https://github.com/marcusturewicz/25-days-of-serverless-challenge/blob/master/Day-17) - `NodeJS Azure Functions`
+
 ---
 
 #### WEEK THREE - CHALLENGE 18

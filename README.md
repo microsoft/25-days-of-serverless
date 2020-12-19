@@ -126,5 +126,5 @@ provided by the bot. You will only need to do this once across all repos using o
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/?WT.mc_id=25daysofserverless-github-bramin).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/?WT.mc_id=25daysofserverless-github-bramin) or
-contact [opencode@https://microsoft.com:80/?WT.mc_id=25daysofserverless-github-bramin](mailto:opencode@https://microsoft.com:80/?WT.mc_id=25daysofserverless-github-bramin) with any additional questions or comments.
+contact [opencode@https://microsoft.com/?WT.mc_id=25daysofserverless-github-bramin](mailto:opencode@https://microsoft.com/?WT.mc_id=25daysofserverless-github-bramin) with any additional questions or comments.
 
